@@ -1,0 +1,41 @@
+Milestones,Description:,,SMART,,,,,Progress:
+,,Completion Time :,Specific,Measurable,Achievable,Relevant,Time Bound,
+Initiation and Planning,Define Objectives and deliverables,Tue 25/Mar 25,Yes,Yes,Yes,Yes,Yes,Completed
+Initiation and Planning,Review the project description and available resources,Tue 25/Mar 25,Yes,Yes,Yes,Yes,Yes,Completed
+Initiation and Planning,Outline the project plan and timeline,Tue 25/Mar 25,Yes,Yes,Yes,Yes,Yes,Completed
+Data Identification and Access,Identify relevant public Databases,March 26 – March 27,Yes,Yes,Yes,Yes,Yes,Completed
+Data Identification and Access,Identify Access,March 26 – March 27,Yes,Yes,Yes,Yes,Yes,Completed
+Data Identification and Access,Retrieval Protocols,March 26 – March 27,Yes,Yes,Yes,Yes,Yes,Completed
+Data Collection and pre processing,Implement Scripts to fetch Data from Identified databases,March 26 – March 27,Yes,Yes,Yes,Yes,Yes,Completed
+Data Collection and pre processing,Collect and Store Data,March 26 – March 28,Yes,Yes,Yes,Yes,Yes,Completed
+Data Collection and pre processing,"Cleanse and Normalize the Data, addressing issues like duplicates, missing values, and inconsistent formatting",March 28 – March 29,Yes,Yes,Yes,Yes,Yes,Completed
+Data Collection and pre processing,"Prepare the Data for NLP Processing, ensuring compatibility with selected models",March 28 – March 29,Yes,Yes,Yes,Yes,Yes,Completed
+Tool Selection and Familiarization,Identify NLP Tools,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Completed
+Tool Selection and Familiarization,Evaluate Tools,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,"Understand Frameworks, Use",March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,BERT,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,Neo4J (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,NetworkX (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,Develop proficiency through Tutorials etc.,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+NLP Model Implementation,Fine-Tune Transformer models on the collected dataset to improve entity recognition accuracy,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
+NLP Model Implementation,Extract Entities and relationships pertinent to lifespan extension,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
+NLP Model Implementation,Evaluate model performance using appropriate metrics and refine as necessary,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
+Knowledge Graph development,"Design the schema for the knowledge Graph, defining nodes and relationships based on extracted Data",April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
+Knowledge Graph development,Populate the graph database with processed data,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
+Knowledge Graph development,Implement Graph Algorithms to uncover Insights and validate the network’s integrity,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
+Analysis and interpretation,Analyze the knowledge graph to identify findings.,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,
+Analysis and interpretation,Cross-reference findings with literature to validate,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,
+Evaluation and refinement,Assess the accuracy of Entity Extraction and relationship identification,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,
+Evaluation and refinement,Refine models and data as necessary,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,
+Documentation and Reporting,"Compile comprehensive documentation detailing methodologies, tools used, data sources, and findings",April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
+Documentation and Reporting,Prepare presentation,April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
+Documentation and Reporting,"Ensure all documentation is clear, concise and accessible for future reference or project continuation",April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Review the entire project for completeness and coherence,April 13-April -14,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Make final adjustments based on feedback or self assessment,April 13-April -14,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Evaluate the project’s outcomes against initial Objectives,April 15 – April -17,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Identify challenges encountered and lessons learned,April 15 – April -17,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning","Outline potential next steps, including scaling the project, exploring additional datasets, or integration more analytical techniques",April 15 – April -17,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Presentation preparation,April 18 – April -19,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Integration to Internet,April 18 – April -19,Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Submission,"Mon, Apr 21, 25",Yes,Yes,Yes,Yes,Yes,
+"Review, adjustments and Future Planning",Unforeseen delays or final touch ups,April 22 – April 23,Yes,Yes,Yes,Yes,Yes,
