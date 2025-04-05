@@ -3,4 +3,4 @@ pandas==2.0.1
 matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.2.2
-#pmdarima==2.0.4
+pmdarima==2.0.4
