@@ -151,4 +151,5 @@ results/*
 
 Meta-Llama-3-8B-Instruct/
 
-streamlit/
+
+.streamlit/secrets.toml
