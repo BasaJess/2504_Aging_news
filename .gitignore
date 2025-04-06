@@ -148,3 +148,8 @@ models/*
 # results folder can be too large
 results/
 results/*
+
+Meta-Llama-3-8B-Instruct/
+
+
+.streamlit/secrets.toml
