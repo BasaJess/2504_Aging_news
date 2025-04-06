@@ -1,26 +1,23 @@
 import streamlit as st
+from openai import OpenAI
 import numpy as np
 import random
 import time
 
 st.title("Neuefische School and Pool for digital talent")
 
-# Streamed response emulator
-def response_generator():
-    response = random.choice(
-        [
-            "Hello there! How can I assist you today?",
-            "Hi, human! Is there anything I can help you with?",
-            "Do you need help?",
-        ]
-    )
-    for word in response.split():
-        yield word + " "
-        time.sleep(0.05)
+# Set OpenAI API key from Streamlit secrets
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
+# Set a default model
+if "openai_model" not in st.session_state:
+    st.session_state["openai_model"] = "gpt-3.5-turbo"
 
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
+
+
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -37,6 +34,13 @@ if prompt := st.chat_input("What is up?"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        response = st.write_stream(response_generator())
-    # Add assistant response to chat history
+        stream = client.chat.completions.create(
+            model=st.session_state["openai_model"],
+            messages=[
+                {"role": m["role"], "content": m["content"]}
+                for m in st.session_state.messages
+            ],
+            stream=True,
+        )
+        response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
