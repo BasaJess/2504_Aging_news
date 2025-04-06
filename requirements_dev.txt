@@ -20,3 +20,6 @@ tqdm
 fpdf
 pypdf
 pdfplumber
+
+#for LLM
+python-dotenv==1.0.1
