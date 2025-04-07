@@ -11,22 +11,22 @@ Data Collection and pre processing,Collect and Store Data,March 26 – March 28,
 Data Collection and pre processing,"Cleanse and Normalize the Data, addressing issues like duplicates, missing values, and inconsistent formatting",March 28 – March 29,Yes,Yes,Yes,Yes,Yes,Completed
 Data Collection and pre processing,"Prepare the Data for NLP Processing, ensuring compatibility with selected models",March 28 – March 29,Yes,Yes,Yes,Yes,Yes,Completed
 Tool Selection and Familiarization,Identify NLP Tools,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Completed
-Tool Selection and Familiarization,Evaluate Tools,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,Evaluate Tools,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Completed
 Tool Selection and Familiarization,"Understand Frameworks, Use",March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
-Tool Selection and Familiarization,BERT,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
-Tool Selection and Familiarization,Neo4J (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
-Tool Selection and Familiarization,NetworkX (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
+Tool Selection and Familiarization,BERT,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Completed
+Tool Selection and Familiarization,Neo4J (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Postponed
+Tool Selection and Familiarization,NetworkX (Knowledge Graph),March 30 – March 31,Yes,Yes,Yes,Yes,Yes,Postponed
 Tool Selection and Familiarization,Develop proficiency through Tutorials etc.,March 30 – March 31,Yes,Yes,Yes,Yes,Yes,In Progress
-NLP Model Implementation,Fine-Tune Transformer models on the collected dataset to improve entity recognition accuracy,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
+NLP Model Implementation,Fine-Tune Transformer models on the collected dataset to improve entity recognition accuracy,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,Completed
 NLP Model Implementation,Extract Entities and relationships pertinent to lifespan extension,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
-NLP Model Implementation,Evaluate model performance using appropriate metrics and refine as necessary,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,In Progress
-Knowledge Graph development,"Design the schema for the knowledge Graph, defining nodes and relationships based on extracted Data",April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
-Knowledge Graph development,Populate the graph database with processed data,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
-Knowledge Graph development,Implement Graph Algorithms to uncover Insights and validate the network’s integrity,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,
-Analysis and interpretation,Analyze the knowledge graph to identify findings.,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,
-Analysis and interpretation,Cross-reference findings with literature to validate,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,
-Evaluation and refinement,Assess the accuracy of Entity Extraction and relationship identification,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,
-Evaluation and refinement,Refine models and data as necessary,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,
+NLP Model Implementation,Evaluate model performance using appropriate metrics and refine as necessary,April 1 – April 3,Yes,Yes,Yes,Yes,Yes,Completed
+Knowledge Graph development,"Design the schema for the knowledge Graph, defining nodes and relationships based on extracted Data",April 4 – April 5,Yes,Yes,Yes,Yes,Yes,Postponed
+Knowledge Graph development,Populate the graph database with processed data,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,Postponed
+Knowledge Graph development,Implement Graph Algorithms to uncover Insights and validate the network’s integrity,April 4 – April 5,Yes,Yes,Yes,Yes,Yes,Postponed
+Analysis and interpretation,Analyze the knowledge graph to identify findings.,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,Postponed
+Analysis and interpretation,Cross-reference findings with literature to validate,April 6 – April 7,Yes,Yes,Yes,Yes,Yes,In Progress
+Evaluation and refinement,Assess the accuracy of Entity Extraction and relationship identification,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,In Progress
+Evaluation and refinement,Refine models and data as necessary,April 8 – April 10,Yes,Yes,Yes,Yes,Yes,In Progress
 Documentation and Reporting,"Compile comprehensive documentation detailing methodologies, tools used, data sources, and findings",April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
 Documentation and Reporting,Prepare presentation,April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
 Documentation and Reporting,"Ensure all documentation is clear, concise and accessible for future reference or project continuation",April 11 – April 12,Yes,Yes,Yes,Yes,Yes,
