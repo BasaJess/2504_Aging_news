@@ -2,6 +2,7 @@ import streamlit as st
 import replicate
 
 st.title("Neuefische School and Pool for Digital Talent")
+st.write("This is a simple chat app using Llama 2 model from Replicate.")
 
 # Set Replicate API token
 replicate_client = replicate.Client(api_token=st.secrets["REPLICATE_API_TOKEN"])
@@ -30,7 +31,10 @@ if prompt := st.chat_input("What is up?"):
             "meta/llama-2-7b-chat",
             input={"prompt": prompt}
         )
-        st.markdown(response)
+        # Concatenate the list of strings into a single string
+        full_response = "".join(response)
+        # Display the concatenated response
+        st.markdown(full_response)
 
     # Add assistant response to chat history
-    st.session_state.messages.append({"role": "assistant", "content": response})
+    st.session_state.messages.append({"role": "assistant", "content": full_response})
