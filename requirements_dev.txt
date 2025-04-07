@@ -15,6 +15,7 @@ pdfminer.six
 PyPDF2
 pycryptodome
 transformers
+accelerate
 tqdm
 fpdf
 pypdf
@@ -31,3 +32,5 @@ faiss-cpu==1.9.0
 
 huggingface_hub
 hf_transfer
+torch
+chromadb
