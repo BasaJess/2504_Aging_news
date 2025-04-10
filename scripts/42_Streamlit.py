@@ -41,6 +41,6 @@ if prompt := st.chat_input("What is up?"):
     handle_input(prompt)
 
 # Button to simulate user input
-if st.button("Press to simulate input"):
-    simulated_input = "you pressed the button"
+if st.button("Click me :)"):
+    simulated_input = "What time is it in Istanbul?"
     handle_input(simulated_input)
