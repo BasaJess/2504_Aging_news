@@ -55,17 +55,17 @@ st.markdown("""
 # Main content area for chat interface
 st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
+# Accept user input from chat input
+st.markdown('<div class="chat-input">', unsafe_allow_html=True)
+if prompt := st.chat_input("What is up?"):
+    handle_input(prompt)
+st.markdown('</div>', unsafe_allow_html=True)
+
 # Display chat messages from history on app rerun
 st.markdown('<div class="chat-messages">', unsafe_allow_html=True)
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-st.markdown('</div>', unsafe_allow_html=True)
-
-# Accept user input from chat input
-st.markdown('<div class="chat-input">', unsafe_allow_html=True)
-if prompt := st.chat_input("What is up?"):
-    handle_input(prompt)
 st.markdown('</div>', unsafe_allow_html=True)
 
 st.markdown('</div>', unsafe_allow_html=True)
