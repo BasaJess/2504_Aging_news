@@ -13,20 +13,13 @@ def handle_input(user_input):
     # Append user message to chat history
     st.session_state.messages.append({"role": "user", "content": user_input})
 
-    # Display user message in chat message container
-    with st.chat_message("user"):
-        st.markdown(user_input)
-
     # Generate response from Llama 2 model
-    with st.chat_message("assistant"):
-        response = replicate_client.run(
-            "meta/llama-2-7b-chat",
-            input={"prompt": user_input}
-        )
-        # Concatenate the list of strings into a single string
-        full_response = "".join(response)
-        # Display the concatenated response
-        st.markdown(full_response)
+    response = replicate_client.run(
+        "meta/llama-2-7b-chat",
+        input={"prompt": user_input}
+    )
+    # Concatenate the list of strings into a single string
+    full_response = "".join(response)
 
     # Append assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": full_response})
@@ -37,15 +30,42 @@ with st.sidebar:
         simulated_input = "What time is it in Istanbul?"
         handle_input(simulated_input)
 
-# Create two columns: left (empty) and right (chat interface)
-_, col2 = st.columns([1, 3])  # Adjust the ratio as needed
+# Custom CSS to control chat interface layout
+st.markdown("""
+    <style>
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+        }
+        .chat-messages {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding-bottom: 10px;
+        }
+        .chat-input {
+            position: sticky;
+            bottom: 0;
+            background: white;
+            padding-top: 10px;
+        }
+    </style>
+    """, unsafe_allow_html=True)
 
-with col2:
-    # Display chat messages from history on app rerun
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+# Main content area for chat interface
+st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
-    # Accept user input from chat input
-    if prompt := st.chat_input("What is up?"):
-        handle_input(prompt)
+# Display chat messages from history on app rerun
+st.markdown('<div class="chat-messages">', unsafe_allow_html=True)
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+st.markdown('</div>', unsafe_allow_html=True)
+
+# Accept user input from chat input
+st.markdown('<div class="chat-input">', unsafe_allow_html=True)
+if prompt := st.chat_input("What is up?"):
+    handle_input(prompt)
+st.markdown('</div>', unsafe_allow_html=True)
+
+st.markdown('</div>', unsafe_allow_html=True)
