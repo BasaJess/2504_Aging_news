@@ -45,7 +45,7 @@ if st.button("Click me", key="button1", help="This is a button"):
             "meta/llama-2-7b-chat",
             input={"prompt": "Hello, world!"})
     st.session_state.messages.append({"role": "assistant", "content": "Hello, world!"})
-       with st.chat_message("assistant"):
+    with st.chat_message("assistant"):
             st.markdown("Hello, world!")  
 
 
