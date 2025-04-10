@@ -43,6 +43,9 @@ if prompt := st.chat_input("What is up?"):
 if st.button("Click me", key="button1", help="This is a button"):
     replicate_client.run(
             "meta/llama-2-7b-chat",
-            input={"prompt": "Hello, world!"})    
+            input={"prompt": "Hello, world!"})
+    st.session_state.messages.append({"role": "assistant", "content": "Hello, world!"})
+       with st.chat_message("assistant"):
+            st.markdown("Hello, world!")  
 
 
