@@ -4,6 +4,11 @@ import replicate
 # Set Replicate API token
 replicate_client = replicate.Client(api_token=st.secrets["REPLICATE_API_TOKEN"])
 
+# Button to simulate user input
+if st.button("Click me :)"):
+    simulated_input = "What time is it in Istanbul?"
+    handle_input(simulated_input)
+
 # Initialize chat history in session state
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -40,7 +45,4 @@ for message in st.session_state.messages:
 if prompt := st.chat_input("What is up?"):
     handle_input(prompt)
 
-# Button to simulate user input
-if st.button("Click me :)"):
-    simulated_input = "What time is it in Istanbul?"
-    handle_input(simulated_input)
+
