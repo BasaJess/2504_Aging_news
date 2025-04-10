@@ -1,13 +1,15 @@
 import streamlit as st
 import replicate
 
-if st.button("Click me"", key="button1", help="This is a button")
-    replicate_client.run(
-            "meta/llama-2-7b-chat",
-            input={"prompt": "Hello, world!"}	
+	
 
 # Set Replicate API token
 replicate_client = replicate.Client(api_token=st.secrets["REPLICATE_API_TOKEN"])
+
+if st.button("Click me", key="button1", help="This is a button")
+    replicate_client.run(
+            "meta/llama-2-7b-chat",
+            input={"prompt": "Hello, world!"}
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -40,3 +42,5 @@ if prompt := st.chat_input("What is up?"):
 
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": full_response})
+
+
