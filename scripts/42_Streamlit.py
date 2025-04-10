@@ -31,10 +31,11 @@ def handle_input(user_input):
     # Append assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": full_response})
 
-# Button to simulate user input
-if st.button("Click me :)"):
-    simulated_input = "What time is it in Istanbul?"
-    handle_input(simulated_input)
+# Place the button in the sidebar
+with st.sidebar:
+    if st.button("Click me :)"):
+        simulated_input = "What time is it in Istanbul?"
+        handle_input(simulated_input)
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -44,5 +45,3 @@ for message in st.session_state.messages:
 # Accept user input from chat input
 if prompt := st.chat_input("What is up?"):
     handle_input(prompt)
-
-
