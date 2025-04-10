@@ -37,8 +37,8 @@ with st.sidebar:
         simulated_input = "What time is it in Istanbul?"
         handle_input(simulated_input)
 
-# Main content area with columns
-col1, col2 = st.columns([1, 3])  # Adjust the ratio as needed
+# Create two columns: left (empty) and right (chat interface)
+_, col2 = st.columns([1, 3])  # Adjust the ratio as needed
 
 with col2:
     # Display chat messages from history on app rerun
