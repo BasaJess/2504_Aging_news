@@ -4,10 +4,7 @@ import replicate
 # Set Replicate API token
 replicate_client = replicate.Client(api_token=st.secrets["REPLICATE_API_TOKEN"])
 
-# Button to simulate user input
-if st.button("Click me :)"):
-    simulated_input = "What time is it in Istanbul?"
-    handle_input(simulated_input)
+
 
 # Initialize chat history in session state
 if "messages" not in st.session_state:
@@ -36,13 +33,16 @@ def handle_input(user_input):
     # Append assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": full_response})
 
+# Accept user input from chat input
+if prompt := st.chat_input("What is up?"):
+    handle_input(prompt)
+
+
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Accept user input from chat input
-if prompt := st.chat_input("What is up?"):
-    handle_input(prompt)
+
 
 
