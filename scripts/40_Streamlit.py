@@ -5,7 +5,9 @@ import random
 import time
 
 from LLMver00 import return_my_question
-
+import importlib
+load_pdf = importlib.import_module("30_LLM_ver00")
+load_pdf_data = load_pdf.load_pdf_data
 
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
