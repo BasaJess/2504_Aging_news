@@ -24,7 +24,8 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-def handle_input(user_input):
+# Accept user input
+if prompt := st.chat_input("What is up?"):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # Display user message in chat message container
@@ -43,8 +44,3 @@ def handle_input(user_input):
         )
         response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
-
-
-# Accept user input
-if prompt := st.chat_input("What is up?"):
-    handle_input(prompt)
