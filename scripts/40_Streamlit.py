@@ -4,6 +4,8 @@ import numpy as np
 import random
 import time
 
+from LLMver00 import return_my_question
+
 
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
@@ -46,7 +48,7 @@ def handle_input(user_input):
 # Sidebar for the button
 with st.sidebar:
     if st.button("Click me :)"):
-        simulated_input = "What time is it in Istanbul?"
+        simulated_input = return_my_question()
         handle_input(simulated_input)
 
 # Accept user input
