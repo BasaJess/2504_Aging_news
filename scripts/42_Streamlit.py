@@ -1,6 +1,8 @@
 import streamlit as st
 import replicate
 
+from LLMver00 import return_my_question
+
 # Set Replicate API token
 replicate_client = replicate.Client(api_token=st.secrets["REPLICATE_API_TOKEN"])
 
