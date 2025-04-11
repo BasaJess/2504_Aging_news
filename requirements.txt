@@ -26,3 +26,8 @@ tqdm
 fpdf
 pypdf
 pdfplumber
+
+huggingface_hub
+hf_transfer
+torch
+chromadb
