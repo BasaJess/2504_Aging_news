@@ -17,3 +17,12 @@ langchain-huggingface==0.1.0
 langchain-groq==0.2.0
 langchainhub==0.1.21
 faiss-cpu==1.9.0
+
+PyPDF2
+pycryptodome
+transformers
+accelerate
+tqdm
+fpdf
+pypdf
+pdfplumber
