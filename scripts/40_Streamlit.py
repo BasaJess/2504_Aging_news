@@ -4,7 +4,6 @@ import numpy as np
 import random
 import time
 
-st.title("Neuefische School and Pool for digital talent")
 
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
@@ -17,7 +16,11 @@ if "openai_model" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-
+# Sidebar for the button
+with st.sidebar:
+    if st.button("Click me :)"):
+        simulated_input = "What time is it in Istanbul?"
+        handle_input(simulated_input)
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
