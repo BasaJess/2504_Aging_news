@@ -16,11 +16,6 @@ if "openai_model" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Sidebar for the button
-with st.sidebar:
-    if st.button("Click me :)"):
-        simulated_input = "What time is it in Istanbul?"
-        handle_input(simulated_input)
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -47,6 +42,12 @@ def handle_input(user_input):
         response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
 
+
+# Sidebar for the button
+with st.sidebar:
+    if st.button("Click me :)"):
+        simulated_input = "What time is it in Istanbul?"
+        handle_input(simulated_input)
 
 # Accept user input
 if prompt := st.chat_input("What is up?"):
