@@ -22,7 +22,7 @@ model_id = "llama3-8b-8192"
 file_name = os.sep+ "LifespanPodcast_Episode_2"
 doc_ext =".pdf"
 doc_path = "data" + os.sep + "Training_docs"  #"../data/Training_docs/"
-db_path = "../data/vector_databases/"
+db_path = "data" + os.sep + "vector_databases"
 
 # Set the model ID and parameters
 llm = ChatGroq(
