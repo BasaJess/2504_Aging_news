@@ -46,11 +46,15 @@ def handle_input(user_input):
         response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
 
+def ask_30_LLM_latest_findings():
+    # Simulate a function that returns a question
+    return return_my_question()
+
 
 # Sidebar for the button
 with st.sidebar:
     if st.button("Click me :)"):
-        simulated_input = return_my_question()
+        simulated_input = ask_30_LLM_latest_findings()
         handle_input(simulated_input)
 
 # Accept user input
