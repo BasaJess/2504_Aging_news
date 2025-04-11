@@ -24,10 +24,10 @@ for message in st.session_state.messages:
 
 def handle_input(user_input):
     # Add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.messages.append({"role": "user", "content": user_input})
     # Display user message in chat message container
     with st.chat_message("user"):
-        st.markdown(prompt)
+        st.markdown(user_input)
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
