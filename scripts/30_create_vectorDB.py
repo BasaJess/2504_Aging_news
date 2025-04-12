@@ -5,7 +5,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.vectorstores import FAISS
 
-
+# chek oif it is split to chiunks and create embedding
 db_path = ".."+os.sep +"data"+os.sep +"vector_databases"
 # Ensure the vector database directory exists
 os.makedirs(db_path, exist_ok=True)
@@ -36,10 +36,13 @@ def createvector_from_file(doc_path, file_name):
         print(f"Error processing {file_name}: {e}")
 
 def createvector_from_directory(doc_path):
+    """
+    Example argument "../data/test_dir/"
+    """
     # Iterate over all PDF files in the directory
     for file in os.listdir(doc_path):
         if file.endswith(".pdf"):
             file_name = os.path.splitext(file)[0]
-            file_path = os.path.join(doc_path, file)
-            process_pdf(file_path, file_name)
+            #file_path = os.path.join(doc_path, file)
+            createvector_from_file(doc_path, file_name)
 
