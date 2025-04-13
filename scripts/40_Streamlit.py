@@ -6,6 +6,8 @@ import time
 
 #from LLMver00 import return_my_question
 import importlib
+load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
+retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_relevant_docs_for_streamlit
 load_other_file = importlib.import_module("30_LLM_ver00")
 return_my_question = load_other_file.return_my_question
 
@@ -54,6 +56,9 @@ def ask_30_LLM_latest_findings():
 # Sidebar for the button
 with st.sidebar:
     if st.button("Click me :)"):
+        # call the most relevant documents
+        df = retrieve_most_relevant_docs_for_streamlit()
+        # display the df
         simulated_input = ask_30_LLM_latest_findings()
         handle_input(simulated_input)
 
