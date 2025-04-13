@@ -50,7 +50,7 @@ def most_relevant_docs_list(df):
 
 
 def retrieve_most_relevant_docs_for_streamlit ():
-    df = pd.read_csv("cleaned_docs_info.csv") # just for testing here, later need to go as in the next line
-    #df = pd.read_csv(".." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
+    #df = pd.read_csv("cleaned_docs_info.csv") # just for testing here, later need to go as in the next line
+    df = pd.read_csv(".." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
     top_docs_df, top_docs_json = most_relevant_docs_list(df)
     return top_docs_df
