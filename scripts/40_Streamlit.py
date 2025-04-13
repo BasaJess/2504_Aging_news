@@ -59,6 +59,7 @@ with st.sidebar:
         # call the most relevant documents
         df = retrieve_most_relevant_docs_for_streamlit()
         # display the df
+        st.dataframe(df,use_container_width=True)
         simulated_input = ask_30_LLM_latest_findings()
         handle_input(simulated_input)
 
