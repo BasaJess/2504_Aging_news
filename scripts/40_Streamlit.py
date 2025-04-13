@@ -8,8 +8,8 @@ import time
 import importlib
 load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
 retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_relevant_docs_for_streamlit
-load_other_file = importlib.import_module("00_deprecated_30_LLM_ver00")
-return_my_question = load_other_file.return_my_question
+#load_other_file = importlib.import_module("00_deprecated_30_LLM_ver00")
+#return_my_question = load_other_file.return_my_question
 
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
@@ -60,7 +60,7 @@ with st.sidebar:
         df = retrieve_most_relevant_docs_for_streamlit()
         # display the df
         st.dataframe(df,use_container_width=True)
-        simulated_input = ask_30_LLM_latest_findings()
+        simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
         handle_input(simulated_input)
 
 # Accept user input
