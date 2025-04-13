@@ -6,7 +6,7 @@
 
 import pandas as pd
 import os
-import path
+
 
 def most_relevant_docs_list(df):
     """
