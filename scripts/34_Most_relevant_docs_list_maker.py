@@ -5,6 +5,7 @@
 # it organizes the returned df to be displayed later in a table in a web interface 
 
 import pandas as pd
+import os
 
 def most_relevant_docs_list(df):
     """
@@ -48,6 +49,6 @@ def most_relevant_docs_list(df):
 
 
 def retrieve_most_relevant_docs_for_streamlit ():
-    df = pd.read_csv("../data/results/cleaned_docs_info.csv")
+    df = pd.read_csv(".." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
     top_docs_df, top_docs_json = most_relevant_docs_list(df)
     return top_docs_df
