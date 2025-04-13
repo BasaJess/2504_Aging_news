@@ -123,9 +123,13 @@ def print_output(inquiry, retrieval_chain):
 
 
 
-def make_list_from_vectordb(vectordb_location):
+def extract_info_from_one_document_vectordb(vectordb_location):
     """
     This function takes one vector database location and extracts a list with the fields: "File_Name","Relevance_for_longevity","Date_of_publication", "Author","Institution","Peer Reviewed","Summary"
+    
+    It uses the functions: print_output(), connect_chais(), retrieve_from_vector_db(), and extract_parent_path()
+
+
     """
     # Assuming `vectordb` is a pre-defined variable representing the vector database
     # and `get_all_documents` is a method to fetch all documents from it.
@@ -179,7 +183,7 @@ def make_list_from_vectordb(vectordb_location):
 
 
 
-def build_dataframe_from_vector_dbs(root_dir, output_path ,verbose=False):
+def build_dataframe_from_many_docs_vectordbs(root_dir, output_path ,verbose=False):
     """
     Iterates through directories inside `root_dir`, applies `make_list_from_vector_db`
     to each, and appends the results into a DataFrame.
@@ -201,10 +205,10 @@ def build_dataframe_from_vector_dbs(root_dir, output_path ,verbose=False):
         folder_path = os.path.join(root_dir, folder_name)
         
         try:
-            result = make_list_from_vectordb(folder_path)
-            combined_data.extend(result)  # assumes result is a list of dicts
-            df = pd.DataFrame(combined_data)
-            df.to_csv(output_path, index=False)
+            result = extract_info_from_one_document_vectordb(folder_path) # assumes result is a list of dicts
+            combined_data.extend(result)  # append to the list
+            df = pd.DataFrame(combined_data) # saves in a pandas df each iteration
+            df.to_csv(output_path, index=False) # saves in file in case Kernel crashes
             if verbose:
                 print(f"Processing: {folder_path}")
 
