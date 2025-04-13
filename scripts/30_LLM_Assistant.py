@@ -6,6 +6,8 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain import hub
 from langchain.chains.retrieval import create_retrieval_chain
 from dotenv import load_dotenv
+from tqdm import tqdm
+import pandas as pd
 import os
 import re
 import warnings
@@ -127,7 +129,7 @@ def make_list_from_vectordb(vectordb_location):
     """
     # Assuming `vectordb` is a pre-defined variable representing the vector database
     # and `get_all_documents` is a method to fetch all documents from it.
-    
+ 
     list = []
 
        
@@ -172,4 +174,45 @@ def make_list_from_vectordb(vectordb_location):
     list.append(document_info)
     return list
 # end of function
+
+
+
+
+
+def build_dataframe_from_vector_dbs(root_dir, output_path ,verbose=False):
+    """
+    Iterates through directories inside `root_dir`, applies `make_list_from_vector_db`
+    to each, and appends the results into a DataFrame.
+
+    Parameters:
+    - root_dir (str): Path to the folder containing multiple vector DB directories.
+    - output_path he path and destination of the target file, including the extension csv
+    - verbose (bool): If True, prints progress information.
+
+    Returns:
+    - pd.DataFrame: Combined DataFrame from all vector DB outputs.
+    """
+    combined_data = []
+
+    # Get only the directories
+    folder_names = [f for f in os.listdir(root_dir) if os.path.isdir(os.path.join(root_dir, f))]
+
+    for folder_name in tqdm(folder_names, desc="Processing vector DBs"):
+        folder_path = os.path.join(root_dir, folder_name)
+        
+        try:
+            result = make_list_from_vectordb(folder_path)
+            combined_data.extend(result)  # assumes result is a list of dicts
+            df = pd.DataFrame(combined_data)
+            df.to_csv(output_path, index=False)
+            if verbose:
+                print(f"Processing: {folder_path}")
+
+        except Exception as e:
+            if verbose:
+                print(f"Error processing {folder_path}: {e}")
+            continue
+
+    
+    return df
 
