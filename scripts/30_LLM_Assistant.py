@@ -155,7 +155,7 @@ def extract_info_from_one_document_vectordb(vectordb_location):
         print(f"Error: {e}")
 
     try:
-        date_of_publication = print_output("if there is a date of publication of the document, Please write only the date of publication, if there is no date of publication, please write only today's date.",doc_retrieval_chain)
+        date_of_publication = print_output("if there is a date of publication of the document, Please write only the date of publication, if there is no date of publication, please write only today's date. Be sure that the date is not a future date",doc_retrieval_chain)
     except Exception as e:
         print(f"Error: {e}")
 

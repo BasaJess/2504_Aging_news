@@ -4,8 +4,10 @@
 
 
 import re
+import os
+import pandas as pd
 from dateutil import parser
-from datetime import date
+from datetime import date, datetime
 
 def extract_date_from_text(text):
     """
@@ -34,7 +36,7 @@ def extract_date_from_text(text):
         return parsed_date.date().isoformat()
 
     except Exception:
-        return date.today()
+        return str(date.today())
 
 
 
@@ -47,11 +49,20 @@ def clean_and_save_docs_df(df):
     # iterates through each row in df and extract the string of the field "date_of_publication"
         # applies extract_date_from_text(text) function for each row in the df
         # replace the value
+        # Convert the 'date_of_publication' column to datetime
+        # errors='coerce' ensures that if a value cannot be converted to a valid datetime, it will be replaced with NaT (Not a Time), which is pandas’ equivalent of NaN for datetime.
     df['Date_of_publication'] = df['Date_of_publication'].apply(extract_date_from_text)
+    
+    df['Date_of_publication'] = pd.to_datetime(df['Date_of_publication'], errors='coerce')
+
+    df['Date_of_publication'] = df['Date_of_publication'].fillna(pd.to_datetime(datetime.today().date()))
 
     # The column Peer revied has a response from the LLM, we leave that the way it is for now. It could also be simplified toa yes or no
 
     # Do I need to clean more? Columns or Rows?
     # The file_name is wrong, it is in float format, should be a string, he problem is that leading zeros are gone. We will have to solve that later 
+
+
+    df.to_csv(".." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
 
     return df
