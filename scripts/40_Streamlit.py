@@ -59,15 +59,15 @@ with st.sidebar:
         df = retrieve_most_relevant_docs_for_streamlit()
         # display the df
         st.dataframe(df,use_container_width=True)
-        simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
-        handle_input(simulated_input)
+        #simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
+        #handle_input(simulated_input)
 
 # Accept user input
 if prompt := st.chat_input("What is up?"):
     handle_input(prompt)
 
 
-uploaded_file = st.file_uploader("Choose a file")
-if uploaded_file is not None:
-    df = pd.read_csv(uploaded_file)
-    st.write(df)
+#uploaded_file = st.file_uploader("Choose a file")
+#if uploaded_file is not None:
+#    df = pd.read_csv(uploaded_file)
+#    st.write(df)
