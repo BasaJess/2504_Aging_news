@@ -9,8 +9,8 @@ import pandas as pd
 
 #from LLMver00 import return_my_question
 import importlib
-#load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
-#retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_relevant_docs_for_streamlit
+load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
+retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_relevant_docs_for_streamlit
 #load_other_file = importlib.import_module("00_deprecated_30_LLM_ver00")
 #return_my_question = load_other_file.return_my_question
 
@@ -60,8 +60,8 @@ def ask_30_LLM_latest_findings():
 with st.sidebar:
     if st.button("Click me :)"):
         # call the most relevant documents
-        # df = retrieve_most_relevant_docs_for_streamlit()
-        df = pd.read_json("top_10_docs.json")
+        df = retrieve_most_relevant_docs_for_streamlit()
+        #df = pd.read_json("top_10_docs.json")
         # display the df
         st.dataframe(df,use_container_width=True)
         simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
