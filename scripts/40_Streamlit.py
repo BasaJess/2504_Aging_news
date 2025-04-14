@@ -17,7 +17,7 @@ retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_releva
 
 from pathlib import Path
 #print("File path :" , Path(__file__).absolute() )
-print("File path :" , Path().absolute() )
+st.write("File path :" , Path().absolute() )
 
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
