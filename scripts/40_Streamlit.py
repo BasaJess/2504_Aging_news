@@ -4,6 +4,9 @@ import numpy as np
 import random
 import time
 
+import pandas as pd
+
+
 #from LLMver00 import return_my_question
 import importlib
 load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
@@ -57,7 +60,8 @@ def ask_30_LLM_latest_findings():
 with st.sidebar:
     if st.button("Click me :)"):
         # call the most relevant documents
-        df = retrieve_most_relevant_docs_for_streamlit()
+        # df = retrieve_most_relevant_docs_for_streamlit()
+        df = pd.read_csv("topdocs.csv")
         # display the df
         st.dataframe(df,use_container_width=True)
         simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
@@ -67,7 +71,7 @@ with st.sidebar:
 if prompt := st.chat_input("What is up?"):
     handle_input(prompt)
 
-import pandas as pd
+
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
