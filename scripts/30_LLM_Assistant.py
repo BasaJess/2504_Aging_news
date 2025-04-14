@@ -220,3 +220,6 @@ def build_dataframe_from_many_docs_vectordbs(root_dir, output_path ,verbose=Fals
     
     return df
 
+def custom_llm_response(user_input: str, context=None) -> str:
+    # Return a string response
+    return "Response from custom LLM based on: " + user_input
