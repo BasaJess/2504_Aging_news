@@ -23,9 +23,6 @@ def most_relevant_docs_list(df):
     # Sort by relevance and date
     sorted_df = df.sort_values(by=['Relevance_for_longevity', 'Date_of_publication'], ascending=[False, False])
 
-    # Format the date column
-    #if 'Date_of_publication' in sorted_df.columns:
-    #    sorted_df['Date_of_publication'] = sorted_df['Date_of_publication'].dt.strftime('%Y-%m-%d')
 
     # Select and rename columns for clean display
     display_df = sorted_df[[
@@ -50,7 +47,7 @@ def most_relevant_docs_list(df):
 
 
 def retrieve_most_relevant_docs_for_streamlit ():
-    #df = pd.read_csv("./data/results/cleaned_docs_info.csv") # just for testing here, later need to go as in the next line
+    
     df = pd.read_csv("." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
     top_docs_df, top_docs_json = most_relevant_docs_list(df)
     return top_docs_df
