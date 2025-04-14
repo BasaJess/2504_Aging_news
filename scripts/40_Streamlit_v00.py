@@ -3,6 +3,8 @@ import importlib
 import pandas as pd
 import json
 
+st.set_page_config(layout="wide")
+
 # Import the function to retrieve the most relevant documents
 load_other_file = importlib.import_module("34_Most_relevant_docs_list_maker")
 retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_relevant_docs_for_streamlit
