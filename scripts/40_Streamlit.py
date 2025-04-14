@@ -47,10 +47,6 @@ def handle_input(user_input):
         response = st.write_stream(stream)
     st.session_state.messages.append({"role": "assistant", "content": response})
 
-def ask_30_LLM_latest_findings():
-    # Simulate a function that returns a question
-    return return_my_question()
-
 
 # Sidebar for the button
 with st.sidebar:
@@ -58,7 +54,8 @@ with st.sidebar:
         # call the most relevant documents
         df = retrieve_most_relevant_docs_for_streamlit()
         # display the df
-        st.dataframe(df,use_container_width=True)
+        st.session_state.messages.append({"role": "assistant", "content": st.dataframe(df,use_container_width=True)})
+        #st.dataframe(df,use_container_width=True)
         #simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
         #handle_input(simulated_input)
 
