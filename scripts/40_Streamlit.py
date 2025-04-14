@@ -4,7 +4,7 @@ import numpy as np
 import random
 import time
 
-import pandas as pd
+#import pandas as pd
 
 
 #from LLMver00 import return_my_question
@@ -65,8 +65,7 @@ def ask_30_LLM_latest_findings():
 with st.sidebar:
     if st.button("Click me :)"):
         # call the most relevant documents
-        #df = retrieve_most_relevant_docs_for_streamlit()
-        df = pd.read_csv("./scripts/topdocs.csv")
+        df = retrieve_most_relevant_docs_for_streamlit()
         # display the df
         st.dataframe(df,use_container_width=True)
         simulated_input = "What time is in London?"# ask_30_LLM_latest_findings()
