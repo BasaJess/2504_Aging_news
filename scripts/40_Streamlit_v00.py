@@ -30,7 +30,7 @@ if not st.session_state.relevant_df.empty:
 
     # Show sorting-enabled table with full width
     st.dataframe(
-        st.session_state.relevant_df.sort_values(by=["Relevance", "Date"], ascending=[False, False]),
+        st.session_state.relevant_df.sort_values(by=["Relevance_for_longevity", "Date"], ascending=[False, False]),
         use_container_width=True
     )
 
