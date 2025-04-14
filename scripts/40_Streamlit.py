@@ -14,6 +14,11 @@ retrieve_most_relevant_docs_for_streamlit = load_other_file.retrieve_most_releva
 #load_other_file = importlib.import_module("00_deprecated_30_LLM_ver00")
 #return_my_question = load_other_file.return_my_question
 
+
+from pathlib import Path
+#print("File path :" , Path(__file__).absolute() )
+print("File path :" , Path().absolute() )
+
 # Set OpenAI API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
