@@ -1,0 +1,840 @@
+File_Name,Relevance_for_longevity,Date_of_publication,Author,Institution,Peer Reviewed,Summary
+2405.07449,0.5,"Based on the provided context, there is no specific date of publication mentioned. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. Phytochemistry - unclear
+2. Molecular Cell Biochemistry
+3. Journal of Biological Chemistry
+4. Front Pharmacol
+5. International Journal of Complement and Alternative Medicine
+6. Pharmacognosy Research
+7. Australian Prescriber
+8. Journal of Phytopharmacol","Based on the context, I would say ""unclear"". There is no explicit indication that the articles or documents listed are peer-reviewed.","The document discusses the use of herbal medications and products worldwide, particularly in underdeveloped nations where they may be the only affordable therapy option. Researchers suggest that the primary rationale for using herbal medications is the expectation of improved tolerability compared to synthetic drugs. The document also highlights the growing popularity and acceptance of herbal therapy, citing the increasing trade in medicinal plants and herbal pharmaceuticals."
+2405.14690,0.4,"Based on the provided context, I found the following dates of publication:
+
+* Morris, M. E., Huxham, F., McGinley, J., Dodd, K. & Iansek, R. (2001)
+* Mozaffarian, D., Stein, P. K., Prineas, R. J. & Siscovick, D. S. (2008)
+* Ramsay, J., Ramsay, J. & Silverman, B. (2005)
+* Rodbard, D. (2016)
+* Shilo, S., Bar, N., Keshet, A., Talmor-Barkan, Y., Rossman, H., Godneva, A., Aviv, Y., Edlitz, Y., Reicher, L., Kolobkov, D., Wolf, B. C., Lotan-Pompan, M., Levi, K., Cohen, O., Saranga, H., Weinberger, A. & Segal, E. (2021)
+* The “All of Us” Research Program (2019)
+
+If there is no date of publication, I will write today's date:
+
+* Archer, E. (no date)
+* Battelino, T., Danne, T., Bergenstal, R. M., Amiel, S. A., Beck, R., Biester, T., Bosi, E., Buckingham, B. A., Cefalu, W. T., Close, K. L. et al. (no date)
+* Beck, R. W., Bergenstal, R. M., Riddlesworth, T. D., Kollman, C., Li, Z., Brown, A. S. & Close, K. L. (no date)
+
+Please note that the dates of publication are based on the provided context and may not be exhaustive.",Unknown,Unclear,Yes.,"The document appears to be a research paper or study protocol that discusses the analysis of dietary variables and patient information in relation to glucose monitoring. The study involves a large-scale prospective longitudinal study in Israel, as well as a functional multilevel regression analysis of scalar predictors. The paper also references various other studies and articles on topics such as biomechanics, motor control, heart rate variability, and continuous glucose monitoring. The main focus of the document is on the analysis of dietary intake and its relationship to glucose levels, with the goal of developing personalized dietary recommendations for patients."
+2405.19057,0.2,"Unfortunately, the provided context does not mention the date of publication. Therefore, I will write today's date:
+
+2023-03-21","Rakowski, Monti et al.","I apologize, but there is no article mentioned in the provided context. The context appears to be a list of references and technical information about a machine learning model. Therefore, I cannot provide the name of an institution that published an article.",Unclear,"The document describes a technical experiment that involves a Convolutional Neural Network (CNN) sequence feature extractor, a metadata embedding module, and a regularization penalty. The metadata embedding module maps experiment metadata to a set of weights used to compute peak predictions from extracted DNA features. The regularization penalty enforces independence between the two latent sub-spaces of the model. The document also describes the data collection process, including the downloading of peak files and querying of metadata from the ENCODE REST API. Finally, it presents some results, including a comparison of independence between latent subspaces and model predictive performance, as well as an analysis of feature contributions for different types of sequences."
+2406.01107,0.39,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper or study on brain imaging and neurology. It mentions a dataset of brain scans from various studies, with a total age range of 5-95 years old and a mix of male and female participants. The dataset is being used to develop a normative reference dataset for brain imaging analysis. The paper also mentions the use of machine learning models to analyze the brain scans, with 11 models being compared."
+2406.06767,0.2,2011,Springer,Springer,Unclear,"The document appears to be a research paper discussing a statistical method for comparing the differences between case and control groups. The method is based on the probabilistic index (PI) between the case and control groups, which is a rescaled U statistic. The authors relax the assumption of equal variance for latent variables by proposing that their variances should be inversely proportional to their respective cluster sizes. The paper also mentions the use of DESeq2_pseudobulk and ULV_wt methods for identifying significant pathways."
+2406.06969,0.8,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document discusses the development of a novel data analysis framework called COSER, which is used to study the effects of tissue environments on gene expression. The framework is applied to a dataset of 24 sub-datasets, and the results show that not only cell-type but also tissue has an isolated effect on gene expression. The study identifies 253 genes that are susceptible to tissue environment effects and performs enrichment analysis to identify biological processes that are significantly enriched in these genes. The results highlight the potential application of COSER to future research in experimental planning and statistical modeling for omics atlases."
+2406.10921,0,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research study that investigates the most efficient number of field-of-view (FOV) studies. The study uses computer simulations and a newly proposed ""FOVS method"" to determine the optimal number of targets and markers on a virtual study area. The results are analyzed using significance tests and the findings are presented in the document."
+2406.13816,0.4,(1974),Unknown,"I apologize, but there is no article provided in the context. The context appears to be a collection of references and citations from various sources. Therefore, I cannot identify an institution that published an article.",Unclear,"The document appears to be a collection of references and notes on various topics related to population dynamics, ecology, and economics. It includes citations from academic papers and books on topics such as population growth, decline, and aging, as well as the impact of policy on population trends. The document also includes a section on agent-based modeling, which is a method used to simulate the behavior of complex systems, such as populations. The references are from the 1950s to 2009, and the document seems to be a compilation of research and ideas on population dynamics and related topics."
+2407.02673,0.2,"JULY 4, 2024",Unknown,Unclear,Unclear,"The document appears to be a research paper or report that discusses the development of a model for analyzing EEG (electroencephalogram) signals. The model incorporates features related to daily activities, such as sleeping, eating, and exercising, to recognize patterns and improve the accuracy of EEG representations. The document also references various sources, including academic papers and online resources, and mentions the contributions of multiple individuals, including Dr. Ponce and Dr. Arslan."
+2407.04799,0.7,"The date of publication is not specified in the context, so I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a description of a fisheries stock assessment model, which is used to estimate the population biomass, recruitment, and mortality rates of a fish stock. The model incorporates various parameters, such as weight-length allometric coefficients, process model parameters, and observation model parameters, to estimate the stock's dynamics. The document also includes figures and equations that illustrate the model's components and how they interact."
+2407.05226,0.9,2023,Unknown,"I apologize, but there is no article provided in the context. It appears to be a collection of references and authors, but not an article itself. Therefore, I cannot provide the name of the institution that published the article.",Unclear,"The document discusses the concept of aging and its relationship to mortality rates. It introduces the idea of Emergent Aging Mechanism (EAM), which suggests that aging can occur at the system level of an organism, even if its individual components are non-aging. The document also mentions that the mortality rate of a population can increase over time, leading to an aging population, and that aging is a stochastic process influenced by multiple genetic and epigenetic factors."
+2407.06019,0.6,"The date of publication is not specified in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"I'm happy to help! However, I don't see any article or publication mentioned in the provided context. It seems to be a list of references with various journal names and publication years. If you could provide more context or clarify which article you're referring to, I'd be happy to try and assist you.",Yes,"The document appears to be a collection of references to scientific articles and studies related to epigenetics, chromatin biology, and gene regulation. The articles discuss various topics such as the establishment and maintenance of epigenetic marks, chromatin compaction and decompaction, histone modification, and the regulation of gene expression. The references seem to be a compilation of research papers published in various scientific journals, including Nature, Physical Review E, and Proceedings of the National Academy of Sciences."
+2407.10215,0.2,"July 16, 2024",Unknown,"Here are the names of the institutions that published the articles:
+
+1. unclear
+2. unclear
+3. unclear
+4. unclear
+5. unclear
+6. unclear
+7. unclear
+8. unclear
+9. unclear
+10. unclear
+11. unclear
+12. unclear
+13. unclear
+14. unclear
+15. unclear
+16. unclear
+17. unclear
+18. unclear
+19. unclear
+20. unclear
+21. unclear
+22. unclear
+23. unclear
+24. unclear
+25. unclear
+26. unclear
+27. unclear
+28. unclear
+29. unclear
+30. unclear
+31. unclear
+32. unclear
+33. unclear
+34. unclear
+35. unclear
+36. unclear
+37. unclear
+38. unclear
+39. unclear
+40. unclear
+41. unclear
+42. unclear
+43. unclear
+44. unclear",Unclear,"The document appears to be a research paper that discusses the integration of differentially methylated region (DMR) sets predicted by various methods on methylation array datasets in four different scenarios. The scenarios involve comparing methylation patterns in five different tissues, prostate cancer (PCa) tissues versus normal prostate tissues, benign PCa tissues versus other histological stages of PCa tissues, and brain tissues with Alzheimer's disease (AD) versus normal brain tissues. The authors use a software tool called DMRIntTk to integrate the DMR sets and perform enrichment analysis of functional pathways."
+2407.10411,0.4,2024,Unknown,"Clausius Scientific Press, Canada",Unclear,"The document presents a study on modeling the population growth of sea lampreys using two mathematical models: the ESC model and the SRAEI model. The models take into account the gender ratio factor and its impact on the population growth. The study concludes that an increase in female lampreys leads to increased food consumption and predation on other species, resulting in a more rapid population growth. The models are shown to be accurate and reasonable, but there is room for improvement, such as simplifying the SexRatioAdaptationEcoImpact model by reducing the number of stages in a lamprey's life cycle."
+2407.11453,0.8,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+2023-03-21",Unknown,"I can do that! However, please note that the context provided does not contain any article titles or publication information. It appears to be a list of references with authors and publication years.
+
+If you're looking for the names of institutions associated with the authors, here are the results:
+
+* [51] University unclear
+* [52] Cambridge University Press
+* [53] unclear
+* [54] unclear
+* [28] unclear
+* [29] unclear
+* [30] unclear
+* [31] unclear
+* [5] unclear
+* [6] unclear
+* [7] unclear
+* [8] unclear
+* [9] unclear","Based on the context, I would say ""unclear"". The document appears to be a collection of references and citations to various scientific papers, but it does not explicitly indicate that it is a peer-reviewed document.","There is no document provided, only a context with references to various scientific papers and articles. The context appears to be related to telomere length and its significance in biobehavioral research, aging, and diseases. It does not contain a summary or a main text to summarize."
+2407.12060,0,Today's date.,M. W.-J. M. and B. A.,Unclear,Unclear,"The document appears to be a table or list summarizing the genetic sex determination (GSD) mechanisms in various species of animals, including amphibians and fish. The table provides information on the GSD system, including the presence or absence of sex chromosomes, the expression of specific genes (such as Dmrt1 and DmW), and the methods used to examine the GSD mechanisms (e.g. qPCR, PCR, histology, Southern blot). The table also includes references to specific studies that have investigated the GSD mechanisms in each species."
+2407.12897,0.6,"Since there is no specific date of publication mentioned in the context, I will write today's date:
+
+2023-09-21",Unknown,Unclear,Unclear,"The document discusses the GenMIND dataset, a synthetic dataset designed to represent a global healthy population across the human lifespan. The dataset is created using a kernel density estimation (KDE) model and can be used to generate control groups with similar demographic characteristics as the study population. This allows for more robust comparative analyses and can be used to harmonize datasets from diverse sources. The dataset is also useful for brain age predictions and can be used to gain insights into age-related changes and deviations from expected brain development trajectories."
+2407.15301,0.9,2020,Unknown,Unclear,Unclear,"The document discusses the application of epigenetic clocks to predict life expectancy using human methylation data. The authors compare two methods, U-learning and conformal prediction, for generating prediction intervals. They find that the U-learning method outperforms conformal prediction in terms of covering countries with extreme life expectancies, while conformal prediction provides more consistent interval lengths. The study highlights the importance of considering individual variability within each country when making predictions."
+2407.17601,0.25,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,"Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed.","The document appears to be a research paper on the behavior and preferences of free-ranging dogs. The study explores the dogs' food preferences, resting patterns, and interactions with humans. The authors conducted experiments and analyzed the results to understand the dogs' behavior and identify patterns. The paper also includes acknowledgments and ethical statements, indicating that the research was conducted in accordance with animal ethics regulations and that the authors declare no conflict of interest."
+2407.21087,0.25,"I apologize, but there is no specific document mentioned in the provided context. The context appears to be a collection of scientific articles and research papers, but it does not specify a single document. Therefore, I cannot provide a date of publication.",Unknown,"I apologize, but there is no article provided in the context. The context appears to be a list of references with DOIs, but there is no article text. Therefore, I cannot determine the name of the institution that published the article.","Based on the context, I would say ""unclear"". The document appears to be a collection of references to scientific articles, but it does not explicitly indicate that the articles themselves are peer-reviewed.","The document appears to be a research paper discussing the analysis of protein sources and their effects on the body. It mentions the importance of comprehensive analysis of protein sources, including processing methods, quantities in the diet, interactions with other nutrients, and combinations of diverse protein sources. The paper also references various studies on protein and its effects on the body, including bone health and metabolism. However, the main focus of the document seems to be a specific experiment on rats, where their body weight, food intake, and energy efficiency were measured over a 6-week period."
+2408.00984,0.528059,Please provide the specific question you'd like me to answer based on the context.,Unknown,"I can do that! However, please note that there is no article provided in the context, only a list of references and some additional information. Therefore, I will assume you are referring to the references.
+
+Here are the names of the institutions that published the articles:
+
+* [9] Marsit, C.J.: Influence of environmental exposure on human epigenetic regulation. - Unclear
+* [10] Gomes, M.V.d.M., Pelosi, G.G.: Epigenetic vulnerability and the environmental influence on health. - Experimental Biology and Medicine
+* [11] McKay, J.A., Mathers, J.C.: Diet induced epigenetic changes and their implications for health. - Acta physiologica
+* [12] Godfrey, K.M., Costello, P.M., Lillycrop, K.A.: The developmental environment, epigenetic biomarkers and long-term health. - Journal of developmental origins of health and disease
+* [13] Obata, Y., Furusawa, Y., Hase, K.: Epigenetic modifications of the immune system. - Computational Biology and Chemistry
+* [52] Gao, L., Emperle, M., Guo, Y., Grimm, S.A., Ren, W., Adam, S., Uryu, H., Zhang, Z.-M., Chen, D., Yin, J., et al.: Comprehensive structure-function characterization of dnmt3b and dnmt3a reveals distinctive de novo DNA methylation mechanisms. - Nature communications
+* [54] Xu, H., Li, S., Liu, Y.-S.: Roles and mechanisms of DNA methylation in vascular aging and related diseases. - Frontiers in Cell and Developmental Biology
+* [74] Berridge, M.J.: Vitamin D, reactive oxygen species and calcium signalling in aging and disease. - Philosophical Transactions of the Royal Society B: Biological Sciences
+* [75] Zheng, J.Q., Poo, M.-m.: Calcium signaling in neuronal motility. - Annu. Rev. Cell Dev. Biol.
+* [76] Fang, X., Zeng, X., Wang, M., Qin, L., Tan, C., Wu, J.: Enrichment analysis of differentially expressed genes in chronic heart failure. - Annals of Palliative Medicine
+* [77] National Center for Biotechnology Information: NCBI. - Unclear
+* [78] European Bioinformatics Institute: EBI. - Unclear",Unclear,"The document appears to be a research paper or report on the topic of epigenetic changes and their relationship to aging. The authors use a combination of computational biology and chemistry techniques to analyze the data and provide a comprehensive understanding of the changes that occur in DNA methylation patterns with age. The paper specifically focuses on the importance of certain age groups (0-20, 20-45, and 0) and how the methylation patterns change across these groups. The authors also use a graph-based approach to visualize the data and provide a more intuitive understanding of the results."
+2408.08832,0.8,"According to the context, the date of publication is:
+
+2022",Unknown,"Here are the names of the institutions that published the articles:
+
+1. Scientific Reports - unclear
+2. Precision Clinical Medicine - unclear
+3. Nature Medicine
+4. British Journal of Cancer
+5. International Journal of Cancer
+6. Nature
+7. Nature
+8. Nature Reviews Genetics
+9. IEEE Transactions on Nanobioscience
+10. IEEE Transactions on Nanobioscience
+11. Applied Survival Analysis - unclear (book)
+12. Proceedings of the National Academy of Sciences
+13. Nature
+14. Cell",Yes,"The document appears to be a research paper that presents a method for identifying patient subtypes based on aggregated features from various datasets. The authors use a clustering algorithm to group patients into subtypes and then evaluate the quality of the clusters using the silhouette score. The paper also includes survival analysis curves for each dataset, which show the survival rates of patients in each subtype. The results suggest that the proposed method can effectively identify patient subtypes and predict survival outcomes."
+2408.09554,0.76,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,"Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed. The references provided are to academic papers, but it is not clear whether the current document is a peer-reviewed paper or not.","The document appears to be a research paper or dataset description related to cancer genomics. It provides information on a validation dataset (TCGA Validation dataset counts) and a model training setup (Aggregator model training parameters). The dataset contains counts of samples and slides from various cancer types, such as breast, kidney, and lung cancer. The model training parameters include the number of epochs, batch size, optimizer, learning rate, and weight decay. The document also includes some specific values and counts related to cancer biomarkers, such as TMB-H and KDR amplification."
+2408.10293,0.2,(1998),Unknown,Unclear,Unclear,"Unfortunately, there is no document provided in the given context. The context appears to be a section of a scientific paper or article, but it does not contain a complete document. It seems to be a collection of references, author contributions, and possibly some introductory information. If you could provide more context or the entire document, I'd be happy to help you with a summary."
+2408.11884,0.4,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"I can do that! However, I need to clarify that there is no specific article mentioned in the provided context. The context appears to be a collection of references and a brief description of brain network dynamics. Therefore, I cannot identify a specific institution that published an article. If you could provide more information or clarify which article you are referring to, I'd be happy to try and assist you.","Based on the context, I would say ""unclear"". The document appears to be a collection of references to various scientific papers and articles, but it does not explicitly indicate that it is a peer-reviewed document itself.","The provided context appears to be a collection of references to scientific articles and studies related to sleep medicine and neuroscience. The articles discuss various topics such as scoring respiratory events during sleep, inter-rater reliability for sleep scoring, and the dynamics of brain activity during wakefulness and non-REM sleep. The studies use techniques such as functional connectivity and synchronization analysis to investigate the brain's neural networks and their behavior during different states of consciousness."
+2408.14801,0.2,"Unfortunately, the provided context does not include a date of publication. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"I apologize, but there is no article provided in the context. The context appears to be a list of references with authors and publication information. If you would like to provide an article, I would be happy to help you with your request.",Unclear,"The document appears to be a research paper or article about a framework called ATAC-Diff, which is a versatile informative diffusion model for analyzing and generating single-cell ATAC-seq (scATAC-seq) data. The framework uses an auxiliary model to generate low-dimensional semantic variables that can be used to condition the generation of high-quality scATAC-seq data. The paper presents the architecture of the ATAC-Diff framework and its components, including a semantic encoder, a latent generator, and a clustering module. The authors also provide experimental results showing that ATAC-Diff achieves higher or competitive performances compared to state-of-the-art models designed for individual tasks."
+2409.01235,0.9,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document presents the results of a study that aimed to develop a machine learning model for predicting mortality risk using data from two cohorts: the Rotterdam Study (RS) and the Leiden Longevity Study (LLS). The study used an iterative federated approach to train a linear regression model, which was compared to a meta-analytic framework called HASE. The results show that the federated approach performed similarly to HASE, with some minor differences in the beta values of categorical variables. The study also presents survival analysis results using Cox Proportional Hazard models, which adjusted for various covariates, including age, brain age gap, metabolic age gap, and others. The results suggest that the model can accurately predict mortality risk and identify high-risk individuals."
+2409.03353,0.9,The date of publication is: 2019,Unknown,Unclear,Unclear,"The document appears to be a collection of research papers and articles related to the topic of human longevity and mortality. The papers discuss various aspects of aging and longevity, including the maximum lifespan, mortality rates, and the plateau of human mortality. The authors present different perspectives and findings on the topic, including the idea that there may be a limit to human lifespan, and that mortality rates may slow down or plateau at advanced ages. The papers also explore the demographic and statistical aspects of longevity, including the use of life tables and the impact of right-censoring on mortality measures. Overall, the document provides a comprehensive overview of the current state of knowledge on human longevity and mortality."
+2409.05047,0.6,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document discusses the analysis of RNA-seq data to understand the pathogenesis of subretinal fibrosis in neovascular age-related macular degeneration (nAMD). The authors use machine learning techniques, including dimensionality reduction and regression models, to identify gene groups and individual genes that are strongly correlated with disease progression. They perform iterative experiments, including feature expansion and manipulation, to identify the most influential genes and gene groups. The ultimate goal is to predict the genes most strongly correlated with disease severity and progression in AMD."
+2409.06116,0.2,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",unknown,"I'll do my best to extract the names of institutions from the provided context. Here are the results:
+
+1. Bickmore, W.A., Van Steensel, B., 2013. Genome architecture: Domain organization of interphase chromosomes. Cell 152, 1270–1284.
+	* Institution: unclear (Cell is a journal, not an institution)
+2. Buckle, A., Brackley, C.A., Boyle, S., Marenduzzo, D., Gilbert, N., 2018. Polymer simulations of heteromorphic chromatin predict the 3d folding of complex genomic loci. Molecular Cell 72, 786–797.
+	* Institution: unclear (Molecular Cell is a journal, not an institution)
+3. Chen, T., Ali Al-Radhawi, M., Sontag, E.D., 2021. A mathematical model exhibiting the effect of dna methylation on the stability boundary in cell-fate networks. Epigenetics 16, 436–457.
+	* Institution: unclear (Epigenetics is a journal, not an institution)
+4. Cortini, R., Barbi, M., Caré, B.R., Lavelle, C., Lesne, A., Mozziconacci, J., Victor, J.M., 2016. The physics of epigenetics. Reviews of Modern Physics 88, 025002.
+	* Institution: unclear (Reviews of Modern Physics is a journal, not an institution)
+5. David-Rus, D., Mukhopadhyay, S., Lebowitz, J.L., Sengupta, A.M., 2009. In-
+	* Institution: unclear (no journal name provided)
+6. Waddington, C.H., 1957. The strategy of the genes. George Allen & Unwin.
+	* Institution: unclear (no journal name provided)
+7. Zhang, L., Lu, Q., Chang, C., 2020. Epigenetics in health and disease. Epigenetics in Allergy and Autoimmunity , 3–55.
+	* Institution: unclear (Epigenetics in Allergy and Autoimmunity is a journal, not an institution)
+8. Zhang, Y., Liu, N., Lin, W., Li, C., 2019. Quantifying the interplay between genetic and epigenetic regulations in stem cell development. New Journal of Physics 21, 103042.
+	* Institution: unclear (New Journal of Physics is a journal, not an institution)
+9. Zhao, W., Qiao, L., Yan, S., Nie, Q., Zhang, L., 2021. Mathematical modeling of histone modifications reveals the formation mechanism and function of bivalent chromatin. IScience 24.
+	* Institution: unclear (IScience is a journal, not an institution)
+10. Zoghbi, H.Y., Beaudet, A.L., 2016. Epigenetics and human disease. Cold Spring Harbor Perspectives in Biology 8, a019497.
+	* Institution: unclear (Cold Spring Harbor Perspectives in Biology is a journal, not an institution)
+11. Loubiere, V., Martinez, A.M., Cavalli, G., 2019. Cell fate and developmental regulation dynamics by polycomb proteins and 3d genome architecture. Bioessays 41, 1800222.
+	* Institution: unclear (Bioessays is a journal, not an institution)
+12. Macrae, T.A., Fothergill-Robinson, J., Ramalho-Santos, M., 2023. Regulation, functions and transmission of bivalent chromatin during mammalian development. Nature Reviews Molecular Cell Biology 24, 6–26.
+	* Institution: unclear (Nature Reviews Molecular Cell Biology is a journal, not an institution)
+13. Miller, J.L., Grant, P.A., 2012. The role of dna methylation and histone modifications in transcriptional regulation in humans. Epigenetics: Development and Disease , 289–317.
+	* Institution: unclear (Epigenetics: Development and Disease is a journal, not an institution)
+14. Newar, K., Abdulla, A.Z., Salari, H., Fanchon, E., Jost, D., 2022. Dynamical modeling of the h3k27 epigenetic landscape in mouse embryonic stem cells. PLoS Computational Biology 18, e1010450.
+	* Institution: unclear (PLoS Computational Biology is a journal, not an institution)
+15. Thalheim, T., Hopp, L., Binder, H., Aust, G., Galle, J., 2018. On the cooperation between epigenetics and transcription factor networks in the specification of tissue stem cells. Epigenomes 2, 20.
+	* Institution: unclear (Epigenomes is a journal, not an institution)
+16. Tollefsbol, T.O., 2018. Epigenetics of human disease, in: Epigenetics in human disease. Elsevier, pp. 3–10.
+	* Institution: unclear (Elsevier is a publisher, not an institution)
+
+Please note that some of these references may not be articles, but rather book chapters or reviews.",Unclear,"This document appears to be a collection of supplementary figures, each with a corresponding caption. The figures are numbered from 1 to 6, and the captions are located on either the next or previous page. The document does not provide any additional information beyond the figure numbers and captions, so it is unclear what the figures depict or what they are related to."
+2409.06861,0.2,The date of publication is: 1997,Unknown,"I apologize, but there is no article provided in the context. The context appears to be a list of references or citations from various scientific papers. Therefore, I cannot determine the name of the institution that published the article.","Based on the context, I would say ""unclear"". There is no explicit indication that the document is peer-reviewed. The references cited are academic papers and books, but there is no mention of peer-review processes or journal names.","The document appears to be a collection of references related to ecology, agriculture, and biological control. The references cover a range of topics, including:
+
+* Biological control of pests and diseases
+* Agroecology and sustainable agriculture
+* Ecosystem services and trade-offs
+* Aphid ecology and management
+* Integrated pest management
+* Ecological and evolutionary responses to predation and environmental stress
+
+The references are a mix of academic papers, books, and book chapters, and were published between 1972 and 2020. They seem to be a resource for researchers and practitioners working in the fields of ecology, agriculture, and environmental science."
+2409.08275,0.1,2023 Jun 2,Unknown,Unclear,Yes,"The document discusses the benefits of using a web-based environment for collaborative analytics, particularly in epidemiologic research. It highlights the advantages of having the code travel to the data, rather than the data being made locally available, which simplifies governance and improves security. The authors believe that this approach allows for a prime focus on analytics and has the potential to distribute analytical artifacts to the community."
+2409.08737,0.8,"Based on the context, there is no date of publication mentioned. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,"Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed. The references cited are scientific articles, but there is no mention of peer-review or publication in a reputable journal.","The document appears to be a scientific paper discussing the properties and functions of hemoglobin (Hb), a protein found in red blood cells that binds, stores, and transports diatomic ligands such as oxygen, nitric oxide, and carbon monoxide. The paper mentions the definition of pockets or cavities within hemoglobin, which are important for ligand binding and transport. It also references several scientific studies on the therapeutic potential of molecular hydrogen, which is discussed as a possible treatment for various diseases and disorders."
+2409.10714,0.8,Please provide the specific reference you'd like me to check for a date of publication.,Unknown,"Please provide the article title and author, and I'll do my best to extract the institution name.","Based on the context, I would say ""unclear"". The document appears to be a collection of references to various scientific papers and articles, but it does not explicitly indicate that the original papers themselves were peer-reviewed.","The document appears to be a collection of scientific papers and references related to the topic of the future lifespan of land plants. The papers discuss various aspects of this topic, including the potential extinction mechanisms for land plants, such as overheating and CO2 starvation, as well as the role of silicate weathering in regulating the Earth's climate. The document also includes tables and references to specific studies and papers on the topic."
+2409.11187,0.3,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,"Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed. However, the presence of references to academic journals and the use of formal language and technical terms suggest that the document may have undergone some level of review or editing.","The document appears to be a research study that uses statistical analysis to investigate the relationship between certain genes and cancer. The study uses publicly available datasets and employs the R statistical software and the ""TwosampleMR"" package to analyze the data. The study presents a list of genes, including SRC Proto-Oncogene, AKT1 Serine/Threonine Kinase 1, and BCL2 Apoptosis Regulator, along with their corresponding p-values and odds ratios. The study does not appear to have any conflicts of interest and does not provide a detailed methodology or results section."
+2409.16332,0.6,2022,Unknown,Unclear,Unclear,The document appears to be a research paper discussing the gene SOWAHA and its expression in various cancer types. The authors used the Sangerbox platform and the Human Protein Atlas to analyze the mRNA and protein expression of SOWAHA in different cancer tissues and paired adjacent normal tissues. They also performed RNA-seq experiments on SW620 cell samples treated with siNC and siSOWAHA to evaluate the gene's expression. The study aims to investigate the differential expression of SOWAHA in various cancer types and its potential role in cancer development.
+2409.18221,0.6,2/21/23,Unknown,Unclear,Unclear,"The document appears to be a research study on the effects of a dietary treatment on patients' health conditions. The study analyzed data from 23 variables, categorized into six groups, including body composition, hydration, and metabolism. The results showed that 77% of patients improved their health condition by decreasing their BMI. The study also presented statistical descriptions of the patients' samples, including mean initial values, variation per month, and predicted values at 6, 12, and 18 months."
+2409.18879,0.2,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document discusses a mathematical model for simulating the behavior of cancer stem cells (CSCs) and non-stem cancer cells (CNSCs) in response to a drug treatment. The model is based on a system of ordinary differential equations that describe the dynamics of the cell populations over time. The authors also present a method for estimating the parameters of the model using experimental data. They demonstrate the accuracy of their method by comparing the estimated parameters with the true values and show that the method can be used to estimate the initial proportions of CSCs and CNSCs, even when these proportions are not known."
+2409.20036,0.1,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document describes the MAHI (Mediator Analysis using High-dimensional data with Interactions) method for identifying mediators in high-dimensional data. The method involves two steps: Step 1, which selects the most important candidate mediators using a grid search and bootstrapping, and Step 2, which estimates and tests the direct and indirect effects of each selected mediator. The method is compared to other methods in a table, showing its performance in terms of precision, recall, and specificity."
+2410.01853,0.8,2021-01-16,Unknown,"Please provide the article title and authors, and I'll do my best to extract the name of the institution that published the article.","Based on the context, I would say ""unclear"". The document appears to be a research paper or a dataset description, but there is no explicit indication that it has been peer-reviewed.","The provided context appears to be a collection of references and citations from various scientific papers and articles. The papers cover a range of topics, including biology, genetics, immunology, and machine learning. Specifically, the references mention the Human Cell Atlas, transcriptional regulatory interactions, the p53 pathway, NF-kB, and recurrent neural networks. The papers seem to be a mix of research articles, reviews, and methodological papers, and are likely used as a reference list for a larger scientific project or study."
+2410.02085,0.84,"The date of publication is not specified in the provided context. Therefore, I will write today's date:
+
+October 2, 2024",Unknown,Unclear,Unclear,"The document discusses the integration of multiple omic datasets, including genomic, transcriptomic, and proteomic data, to identify significant differences between two subtypes of patients. The process involves combining the raw data, removing features with a sum of 0, and selecting survival and clinical attributes. A statistical t-test is then conducted to determine the significance of the differences between the two subtypes. The resulting data frames contain the original data, mean values, and p-values, which can be used for further analysis and feature engineering."
+2410.04137,0,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"Based on the provided context, I can identify the following institutions:
+
+1. Genome Research ( unclear if it's a specific institution or a journal)
+2. Nature Communications
+3. Nature Methods
+
+Please note that the context does not provide clear information about the institutions, so I've marked Genome Research as ""unclear"".",Unclear,"The document appears to be a list of figures or panels, with no additional text or context provided. It seems to be a simple enumeration of figures, with no clear topic or theme."
+2410.05325,0.23,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a report on the analysis of single and multi-omics data from the National Cancer Institute's (NCI) The Cancer Genome Atlas (TCGA) project. The data includes transcriptome profiling for mRNA or RNA-Seq, miRNA datasets, and DNA methylation data from 31 types of cancer and normal tissues. The report presents the accuracy and precision of the data for different omics combinations, including single omics (miRNA and DNA methylation) and multi-omics (mRNA or RNA-Seq, miRNA, and DNA methylation). The results show high accuracy and precision for most combinations, with the highest accuracy achieved for multi-omics data combining mRNA or RNA-Seq, miRNA, and DNA methylation."
+2410.05923,0.05,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document appears to be a research paper on the topic of ""Leveraging Social Media News"" and its effects on various aspects. The paper presents statistical analysis and results of a study, including tables and figures, to explore the relationship between social media news and various demographic and psychological factors. The study seems to have investigated the differences in social media news consumption patterns between males and females, and its impact on their attitudes and behaviors. The paper also discusses the effect size of Cohen's d (mean differences) and overlap coefficient (ovl) in the analysis."
+2410.07814,0,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+12/13/2023",The author of this document is M. Yarus.,Please provide the article number or title you'd like me to extract the institution name from.,"Based on the context, I would say ""unclear"". The document appears to be a collection of references and citations, but there is no explicit indication that the document itself has been peer-reviewed.","The document appears to be a scientific paper discussing the evolution of the standard genetic code. It references various studies and theories on the origin of protein biosynthesis, the role of amino acids, and the development of the genetic code. The paper likely explores the early stages of cell evolution, the formation of the genetic code, and the selection of amino acids used in protein synthesis."
+2410.11046,0.6,2023 Jun 26,Unknown,Unclear,Unclear,"The document presents a comparative analysis of various state-of-the-art algorithms for multi-view classification, with a focus on their performance in predicting patient outcomes. The algorithms are evaluated using a dataset and the results are presented in a table. The document also provides information on the methodology used, the authors' contributions, and the funding sources."
+2410.12830,0.2,"Unfortunately, there is no date of publication provided in the context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document discusses the use of Large Language Models (LLMs) for anomaly detection in longitudinal clinical data. The LLM is tasked with analyzing the temporal changes in the data and detecting anomalies using zero-shot learning. The model is then provided with domain-specific contextual information and asked to rethink its initial prediction, incorporating this information to provide a more accurate and contextually aware prediction. The document also mentions the use of Chain-of-Thought (CoT) prompts to encourage the model to reason through a multi-step process and analyze the relationships between clinical values over time."
+2410.15108,0.8,"The date of publication is not specified in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document presents the results of a study that aimed to predict 7 cognitive assessment scores from the NIH Toolbox using machine learning models. The study used 15 features related to microstructure, connectivity, and shape to train LASSO regression and 1D-CNN models. The results show that many shape features are as predictive as widely used microstructure and connectivity features, and that all investigated features have utility for the study of the brain. The top-performing models for each assessment score are highlighted, with many features exhibiting statistically equivalent performance. The study suggests that shape features may be a valuable addition to traditional microstructure and connectivity features for predicting cognitive abilities."
+2410.15367,0,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. Briefings in Functional Genomics - unclear
+2. Nucleic Acids Research - European Molecular Biology Laboratory (EMBL)
+3. Genetics in Medicine - unclear
+4. Scientific Reports - unclear
+5. Human Genetics - unclear
+6. Nature - unclear
+7. Nature Reviews Immunology - unclear
+
+Note that some of the institutions may not be explicitly mentioned in the provided context, so I've marked those as ""unclear"".",Unclear,"The document appears to be a list of authors and contributors to a research study on genetics and immunology, specifically related to the COVID-19 pandemic. The list includes a large number of researchers and scientists from various institutions and countries. The document also includes references to specific genes and genetic criteria, as well as formulas for calculating the odds and probability of pathogenicity. Additionally, it mentions a ""Gene prioritization"" section, which suggests that the study aimed to identify and prioritize genes related to the COVID-19 pandemic."
+2410.16169,0.6,Dec. 1995,Unknown,Unclear,"Based on the context, I would say ""unclear"". The document appears to be a collection of references to various scientific articles, but it does not explicitly indicate that the articles themselves are peer-reviewed.","The document discusses the effects of different protein intake levels on body composition and muscle protein synthesis during caloric restriction. A 31-day experiment was conducted with 39 adults who were allocated to different protein intake groups, including Recommended Dietary Allowance (RDA), 2X-RDA, and 3X-RDA. The results showed that consuming protein at levels surpassing RDA may help preserve fat-free mass during short-term weight loss. However, high protein intake did not prevent lean mass loss in college students on an energy-restricted diet."
+2410.18849,0.8,"Since there is no specific date of publication mentioned in the context, I will write today's date:
+
+2023-03-21",Unknown,"Here are the answers:
+
+1. Pirt, S. 1965. The maintenance energy of bacteria in growing cultures. Proc. Roy. Soc. B 163:224.
+	* Institution: Royal Society
+2. Rallings, T., C. P. Kempes, and J. D. Yeakel. 2024. On the dynamics of mortality and the ephemeral nature of mammalian megafauna. Am. Nat. 204:274–288.
+	* Institution: unclear
+3. Savage, V. M., J. F. Gillooly, J. H. Brown, G. B. West, and E. L. Charnov. 2004. Effects of Body Size and Temperature on Population Growth. http://dx.doi.org.proxy.lib.sfu.ca/10.1086/679735 163:429–441.
+	* Institution: unclear
+4. Sherani, S. 2016. A new specimen-dependent method of estimating felid body mass. PeerJ Preprints 4:e2327v1.
+	* Institution: PeerJ
+5. Sinclair, A. R. E., S. Mduma, and J. S. Brashares. 2003. Patterns of predation in a diverse predator–prey system. Nature 425:288–290.
+	* Institution: Nature
+6. Sorkin, B. 2006. Ecomorphology of the giant bear-dogs and Damuth’s law and Cope’s rule. Nat. Comm. 9:1–10.
+	* Institution: Nature Communications
+7. Carbone, C., Mace, G.M., Roberts, S.C. & Macdonald, D.W. (1999). Energetic constraints on the diet of terrestrial carnivores. Nature, 402, 286–288.
+	* Institution: Nature
+8. Carbone, C., Teacher, A. & Rowcliffe, J.M. (2007). The costs of carnivory. PLoS Biol, 5, e22.
+	* Institution: Public Library of Science
+9. Chesson, P. & Kuang, J.J. (2008). The interaction between predation and competition. Nature, 456, 235–238.
+	* Institution: Nature
+10. Christiansen, P. (1999). What size were Arctodus simus and Ursus spelaeus (Carnivora: Ursidae)? In: Annales Zoologici Fennici. JSTOR, pp. 93–102.
+	* Institution: unclear
+11. Christiansen, P. & Harris, J.M. (2005). Body size of smilodon (mammalia: Felidae). J. Morphol., 266, 369–384.
+	* Institution: unclear
+12. Clauss, M., Steuer, P., M¨ uller, D.W., Codron, D. & Hummel, J. (2008). The evolution and distribution of species body size. Science, 321, 399–401.
+	* Institution: Science
+13. Jackson, G., Mooers, A.Ø., Dubman, E., Hutchen, J. & Collard, M. (2014). Basal metabolic rate and maternal energetic investment durations in mammals. BMC Evol. Biol., 14, 1–7.
+	* Institution: BioMed Central
+14. Jarman, P.J. (1979). Six feeding strategy and the pattern of resource partitioning in ungulates. In: Serengeti: Dynamics of an Ecosystem (ed. Sinclair, A.R.E.). University of Chicago Press, Chicago, p. 130.
+	* Institution: University of Chicago Press
+15. Kartzinel, T.R., Chen, P.A., Coverdale, T.C., Erickson, D.L., Kress, W.J., Kuzmina, M.L., Rubenstein, D.I., Wang, W. & Pringle, R.M. (2015). DNA metabarcoding illuminates dietary niche partitioning by African large herbivores. Proc. Natl. Acad. Sci. U.S.A. , 112, 8019–8024.
+	* Institution: National Academy of Sciences
+16. Kempes, C.P., Dutkiewicz, S. & Follows, M.J. (2012).","Based on the context, I would say ""unclear"". The document appears to be a collection of research papers and articles, but it does not explicitly indicate that they are peer-reviewed. Some of the articles may be peer-reviewed, while others may not.","The provided document appears to be a collection of scientific articles and studies related to various topics in ecology, biology, and conservation. The articles discuss topics such as:
+
+* Energetic constraints on the diet of terrestrial carnivores
+* The costs of carnivory
+* The interaction between predation and competition
+* The evolution and distribution of species body size
+* The dynamics of mortality and the ephemeral nature of mammalian megafauna
+* The effects of body size and temperature on population growth
+* Ecomorphology of the giant bear-dogs
+* Theoretical perspectives on resource pulses
+* The changing anthropogenic diets of American black bears
+* Energy uptake and allocation during ontogeny
+* Dietary abundance distributions and dominance and diversity in vertebrate diets
+* Modelling the nutritional ecology of ungulate herbivores
+* Basal metabolic rate and maternal energetic investment durations in mammals
+* Feeding strategies and resource partitioning in ungulates
+* DNA metabarcoding and dietary niche partitioning by African large herbivores
+
+The articles appear to be from various scientific journals and date from 1965 to 2024."
+2410.19508,0.6,"Unfortunately, there is no date of publication provided in the given context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"I can do that! However, please note that the provided context does not contain any information about the publication of an article. It appears to be a list of authors and references to various studies. Therefore, I cannot provide the name of an institution that published an article.",Unclear,"The document appears to be a research paper or study on the genetic and environmental factors that contribute to the development of various diseases and traits. The study uses a large dataset and employs statistical methods, including parametric tests, to analyze the data. The results are not explicitly stated in the provided context, but it seems that the study aims to identify the genetic and environmental factors that influence the development of certain diseases and traits."
+2410.19667,0.2,May 2014,Unknown,"The institution that published this article is:
+
+Emory University",Unclear,The document describes a study on stress testing using physiological signals recorded from 23 subjects who underwent treadmill and bicycle exercises. The signals were analyzed to understand the relationship between heart rate and physical activity intensity. The study found that heart rate variability is higher during low-intensity workloads and resting periods compared to high-intensity exercise phases.
+2410.20896,0,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document discusses the use of Bayesian model selection (BMS) and Bayesian model averaging (BMA) in neuroimaging analysis. It describes the design matrix used for second-level analysis and the recovered spectral density, which shows the effects of continuous regressors and task conditions on brain activity. The document also explains the use of probabilistic models to compare hypotheses and estimate the log Bayes factor between models. It provides an example of how to conduct model comparison using the free-energy of the models."
+2410.23595,0.6,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be guidelines for authors submitting papers to a conference or journal, likely in the field of machine learning. The guidelines cover various aspects of the paper, including:
+
+* Preserving anonymity
+* Discussing broader societal impacts and limitations of the work
+* Providing full assumptions and proofs for theoretical results
+* Reporting on human subjects research and crowdsourcing
+* Ensuring honesty and transparency in discussing limitations
+
+The guidelines aim to promote integrity, transparency, and accountability in the research community, and provide specific instructions for authors to follow."
+2411.00063,0.2,Please provide the specific document or text you would like me to check for a date of publication.,Unknown,"Based on the provided context, here are the names of the institutions mentioned:
+
+* Philippine Statistics Authority (PSA)
+* United States Department of Agriculture (USDA)
+* National Institute of Mental Health (NIMH)
+* Food and Nutrition Research Institute (FNRI)
+* WebMD
+* Frontiers in Nutrition
+* MICHELIN
+* National Institute of Food and Agriculture (NIFA)
+* WESLIE KHOO ( unclear if this is an institution or an individual)
+
+Please note that some of these may be unclear or not explicitly stated as institutions.",Unclear,"The document appears to be a report or article discussing the agricultural sector in the Philippines, specifically in the Bicol region. It highlights the region's potential for growth and development, citing increased land area and improved crop yields. The report also touches on the importance of nutrition and health, mentioning the link between high consumption of red and processed meats and various health issues. Additionally, it notes that economic factors, such as rising costs of sustainably sourced meat and dairy, are driving consumers towards plant-based alternatives. The report concludes by mentioning the average daily expenditure of a typical Bicolano family, which is around Php 555.12."
+2411.00219,0.25,"Based on the provided context, I found the following dates of publication:
+
+* World Health Organisation, 2021
+* Rohle, F. J. (2006)
+* Ross, E. M., & Markowetz, F. (2016)
+* Satas, G., Zaccaria, S., Mon, G., & Raphael, B. J. (2020)
+* McManigal, B., … Naghavi, M. (2022)
+* Naghavi, M., Vollset, S. E., Ikuta, K. S., Swetschinski, L. R., Gray, A. P., Wool, E. E., Aguilar, G. R., Mestrovic, T., Smith, G., Han, C., Hsu, R. L., Chalek, J., Araki, D. T., Chung, E., Raggi, C., Hayoon, A. G., Weaver, N. D., Lindstedt, P. A., Smith, A. E., … Murray, C. J. L. (2024)
+* Schill, R., Klever, M., Rupp, K., Hu, Y. L., Lösch, A., Georg, P., Pfahler, S., Vocht, S., Hansch, S., Wettig, T., Grasedyck, L., & Spang, R. (2024)
+
+If there is no date of publication, I will write today's date:
+
+* (no date of publication)
+
+Please let me know if you need any further assistance!",Unknown,"Please provide the article title or a specific sentence from the context, and I'll do my best to extract the name of the institution that published it.","Based on the context, I would say ""unclear"". The document appears to be a collection of references to various scientific articles and studies, but it does not explicitly indicate that the references themselves are peer-reviewed.","The document discusses the topic of Antimicrobial Resistance (AMR) and its impact on human health. It highlights that AMR is one of the World Health Organization's top 10 threats to human health. The document also mentions that EvAM (Evolutionary Analysis of Mutations) has been applied in various contexts, including the accumulation of mutations in developing tumors, gene losses in evolving organelles, and the evolution of drug resistance in bacteria. Additionally, it references several studies and articles that discuss the global burden of bacterial antimicrobial resistance and its impact on hospital and societal costs."
+2411.00661,0.6,The date of publication is: 2021,Unknown,Unclear,Unclear,"The document appears to be an authorship statement and conflict of interest disclosure for a research paper. It lists the contributors to the paper, including their roles and responsibilities, and also discloses any potential conflicts of interest or financial relationships with companies or organizations. The paper itself is not included in the document, but it seems to be related to brain development and maturation, as it references several scientific studies and papers on the topic."
+2411.02354,0.4,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+March 22, 2023",Sharma et al.,Unclear,Unclear,"The document discusses Maternal Inflammation Response (MIR), a condition associated with adverse health outcomes for mothers and their children. MIR is linked to various health issues, including puerperal fever, neonatal sepsis, recurrent wheeze, asthma, chronic lung disease, lower mental development index, and increased risk of autism spectrum disorder. The document also mentions the importance of identifying MIR stages, which can be challenging due to the lack of organism identification in some cases."
+2411.02413,0.2,2023,Unknown,Unclear,Unclear,"Unfortunately, the provided context is a snippet from a scientific paper and does not contain a clear summary. However, based on the content, it appears to be discussing a topic related to biology or medicine, possibly involving the study of cell proliferation, hypoxia, and infection. The text mentions equations and graphical elements, suggesting that the paper may present mathematical models or simulations to analyze these phenomena."
+2411.04232,0.2,"Based on the provided context, there is no specific date of publication mentioned. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"Based on the provided context, the name of the institution that published the article is unclear.",Unclear,"The document appears to be a research paper discussing the anti-inflammatory properties of a plant extract, referred to as EEJM. The extract was tested for its ability to inhibit proteinase activity and its effects on prostaglandin and nitrous oxide production. The results showed a significant inhibitory effect on proteinase activity, with an IC50 value of 100 μg/ml. The extract also demonstrated anti-inflammatory properties by reducing prostaglandin and nitrous oxide production. The authors suggest that further studies are needed to understand the underlying mechanisms of the extract's anti-inflammatory activity and to explore its potential for clinical use."
+2411.05017,0.6,2023-03-21,Unknown,Unclear,Unclear,"The document discusses the concept of time and how our perception of it changes as we age. It explains that our brain treats temporal stimuli, such as time, like physical ones, and that our sensitivity to changes in time decreases as we get older. This is known as the Weber-Fechner Law, which states that the perceived intensity of a stimulus grows logarithmically as the actual intensity grows exponentially. The document also references other studies and theories that support this idea, including the concept of autobiographical memory and the construction of a narrative self. Overall, the document provides insight into how our brain processes time and how our perception of it changes over time."
+2411.05188,0.6,"Based on the context, I found the following dates of publication:
+
+* 2005
+* 2010
+* 2014
+* 2017
+
+If there is no date of publication, I would write today's date, which is:
+
+2023-03-21",Unknown,"Here are the names of the institutions that published the articles:
+
+1. Molecular psychiatry - unclear
+2. Neuroimage - unclear
+3. Journal of Neuroscience - unclear
+4. Frontiers in neuroscience - unclear
+5. Alzheimer's & Dementia: The Journal of the Alzheimer's Association - unclear
+6. bioRxiv - unclear (bioRxiv is an online archive of preprints in the life sciences)
+
+Note that many of these articles are published in journals that are not specific to a particular institution, but rather are open-access or online archives.","Yes. The document appears to be a research article published in a peer-reviewed journal, as it cites multiple references and includes a list of authors and a journal name (New England Journal of Medicine, Bmj, Molecular psychiatry, and Neuroimage).","The document appears to be a research paper discussing the use of machine learning models for predicting the outcome of hypoxic-ischemic encephalopathy (HIE) in newborns. The authors present two tables, Table 1 and Table 2, which compare the accuracy and generality of their models when trained and tested within the same site versus when transferred to a different site. The results suggest that the models perform better when trained and tested within the same site, but still show promising results when transferred to a different site. The paper does not provide a detailed explanation of the methodology or results, but rather presents the tables as a summary of the findings."
+2411.05244,0.6,"Unfortunately, there is no date of publication provided in the given context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document appears to be a research study on the relationship between retinal diseases and various factors. The study includes data acquisition methods, statistical analysis techniques, and results from univariate logistic regression and other tests. The study specifically looks at the relationship between non-proliferative diabetic retinopathy (NPDR) and age-related macular degeneration (AMD), as well as other factors such as hypertension and diabetes."
+2411.05795,0.5,The date of publication is: 2014,Unknown,"I'll do my best to extract the institution names from the provided context. Here are the results:
+
+1. [4] M. Preiner, S. Asche, S. Becker, H. C. Betts, A. Boniface, E. Camprubi, K. Chandru, V. Erastova, S. G. Garg, N. Khawaja, et al., Life 10, 20 (2020). - unclear
+2. [5] A. I. Oparin, Moscow: Izd. Moskovhii RabochiI (1924). - Izd. Moskovhii RabochiI ( unclear what this is)
+3. [6] J. B. S. Haldane, Rationalist Annual 148, 3 (1929). - unclear
+4. [7] W. Gilbert, Nature 319, 618 (1986). - Nature
+5. [8] M. P. Robertson and G. F. Joyce, Cold Spring Harbor Perspectives in Biology 4, a003608 (2012). - Cold Spring Harbor
+6. [9] B. K. Pearce, R. E. Pudritz, D. A. Semenov, and T. K. Henning, Proceedings of the National Academy of Sciences 114, 11327 (2017). - National Academy of Sciences
+7. [10] J. W. Szostak, Philosophical Transactions of the Royal Society B: Biological Sciences 366, 2894 (2011). - Royal Society
+8. [11] G. F. Joyce and J. W. Szostak, Cold Spring Harbor Perspectives in Biology 10, a034801 (2018). - Cold Spring Harbor
+9. [2] J. D. Sutherland, Angewandte Chemie International Edition 55, 104 (2016). - Angewandte Chemie
+10. [3] N. Kitadai and S. Maruyama, Geoscience Frontiers 9, 1117 (2018). - Geoscience Frontiers
+11. [19] J. T. Kloprogge and H. Hartman, Life 12, 259 (2022). - unclear
+12. [20] J. P. Ferris, Philosophical Transactions of the Royal Society B: Biological Sciences 361, 1777 (2006). - Royal Society
+13. [21] C. A. Jerome, H.-J. Kim, S. J. Mojzsis, S. A. Benner, and E. Biondi, Astrobiology 22, 629 (2022). - Astrobiology
+14. [22] S. Himbert, M. Chapman, D. W. Deamer, and M. C. Rheinst¨ adter, Scientific Reports 6, 31285 (2016). - Scientific Reports
+15. [23] J. Attwater, A. Wochner, V. B. Pinheiro, A. Coulson, and P. Holliger, Nature Communications 1, 76 (2010). - Nature Communications
+16. [24] C. Briones, M. Stich, and S. C. Manrubia, RNA 15, 743 (2009). - unclear
+17. [25] F. Wachowius and P. Holliger, ChemSystemsChem 1, 1 (2019). - ChemSystemsChem
+18. [26] C. Deck, M. Jauker, and C. Richert, Nature Chemistry 3, 603 (2011). - Nature Chemistry
+19. [27] K. Adamala and J. W. Szostak, Science 342, 1098 (2013). - Science
+20. [44] M. Kreysing, L. Keil, S. Lanzmich, and D. Braun, Nature Chemistry 7, 203 (2015). - Nature Chemistry
+21. [45] G. Costanzo, S. Pino, F. Ciciriello, and E. Di Mauro, Journal of Biological Chemistry 284, 33206 (2009). - Journal of Biological Chemistry
+22. [46] M. Morasch, C. B. Mast, J. K. Langer, P. Schilcher, and D. Braun, ChemBioChem 15, 879 (2014). - ChemBioChem
+23. [47] N. Lahav, D. White, and S. Chang, Science 201, 67 (1978). - Science
+24. [48] V. Kompanichenko, Origins of Life and Evolution of Biospheres 42, 153 (2012). - Origins of Life and Evolution of Biospheres
+25. [49] B. Damer and D. Deamer, Life 5, 872 (2015). - Life
+26. [50] H. Kaddour, S. Gerislioglu, P. Dalai, T. Miyoshi, C. Wesdemiotis, and N. Sahai, The Journal of Physical Chemistry C 122, 29386 (2018). - The Journal of Physical Chemistry C
+27. [51] F. Senatore, R. Serra, and M. Villani, in Artificial Life - unclear",Yes,"Unfortunately, there is no document provided in the given context. The context appears to be a collection of references and citations from scientific articles, along with some technical information. It does not contain a summary of a document. If you meant to ask a different question, please feel free to rephrase it!"
+2411.10569,0.2,2022,Unknown,Unclear,"Based on the context, I would say ""unclear"". The document appears to be a research paper or article, but there is no explicit indication that it has been peer-reviewed.","The document presents a mathematical model for the dynamics of cell recruitment, collagen production, and tissue mechanics in a biological system. The model is dimensionless and consists of several parameters that are estimated from literature values. The parameters include fold-multiples for stress-induced cell recruitment, ratios of collagen to cell turnover rates, and coefficients for cell traction forces. The model is used to study the behavior of the system and to understand the interactions between cells, collagen, and tissue mechanics."
+2411.10720,0.25,"Unfortunately, the provided context does not mention the date of publication. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document describes the development of a machine learning model called ALZ-PINNACLE, which aims to predict the likelihood of a gene being associated with Alzheimer's disease (AD) risk. The model uses a knowledge graph constructed from publicly available omics data and a protein-to-cell-type attention mechanism. The model is pre-trained on a large dataset and then fine-tuned to predict AD risk genes. The results show that ALZ-PINNACLE can identify the most predictive cell types and subtypes for AD risk, and can accurately predict the likelihood of a gene being associated with AD risk."
+2411.14130,0.7,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+16",Unknown,Unclear,Unclear,"The document provides a brief history of the development of cancer epigenetics, highlighting key milestones and researchers who contributed to the field. It notes that the concept of epigenetics dates back to Waddington's definition in the 1940s, but it wasn't until the 1970s that the molecular basis of epigenetic changes began to be understood. The document mentions the work of Robin Holliday and Arthur Riggs, who independently proposed that DNA methylation could play a major role in gene expression during cell differentiation and embryonic development. It also touches on the idea that epigenetic changes in somatic cells were initially thought to be secondary effects of DNA repair, but are now recognized as a key aspect of cancer development."
+2411.19840,0.1,"Since there is no specific date of publication mentioned in the context, I will write today's date:
+
+2023-03-21",Unknown,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. Genes Brain Behav. - unclear
+2. Acta Psychiatr. Scand. - unclear
+3. Brain Res. Bull. - unclear
+4. Eur. Neuropsychopharmacol. - unclear
+
+Note that the article titles and journals are not clear, so I couldn't determine the exact institution names.","Based on the context, I would say: yes","Unfortunately, there is no document provided in the context, only a few references to scientific articles and a funding source. Therefore, I cannot write a brief summary of the document as there is no document to summarize."
+2412.01418,0.8,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+28th February 2024",Unknown,Unclear,Unclear,"The document discusses the impact of aging on the human brain and body. It highlights the increasing prevalence of age-related neurodegenerative diseases, particularly dementia, which affects millions of people worldwide. The document also touches on the anatomical changes that occur in the brain during aging, including decreases in brain volume and changes in the connections between brain regions. Additionally, it mentions the importance of understanding these changes to develop treatments and improve the quality of life for older adults."
+2412.03614,0,"I'm ready to answer your question based on the provided context. However, I notice that there is no specific date of publication mentioned in the context. Therefore, I will write today's date, which is:
+
+2023-03-21",Unknown,"I can do that! However, please note that the context provided does not contain information about the institution that published the articles. The context only provides the titles of the articles, authors, and publication years.
+
+Here are the results:
+
+* [213] Unclear
+* [214] Unclear
+* [215] Unclear
+* [200] Unclear
+* [201] Unclear
+* [202] Unclear
+* [138] Unclear
+* [139] Unclear
+* [140] Unclear","Based on the context, I would say ""unclear"". There is no explicit indication that the document is peer-reviewed.","The document discusses the concept of spatial transcriptomics, which involves analyzing the spatial distribution of gene expression within cells and tissues. It highlights the importance of incorporating additional nucleotide sequences, such as cell-specific barcodes and uniform molecular identifiers (UMIs), to uniquely label each cell and distinguish individual mRNA molecules. The document also mentions the need for cDNA amplification to produce sufficient amounts of mRNA for sequencing purposes. Additionally, it provides an overview of various databases and tools available for spatial transcriptomics data, including FastIntegration, CELLiD, and CellMapper, as well as databases such as EMBL-EBI, hECA, and SpatialDB."
+2412.06170,0.2,"Based on the context, I found the following references with dates of publication:
+
+* [1] World Health Organization (WHO). Cardiovascular Diseases (CVDs). https://www.who.int/news-room/fact-sheets/detail/18 (no date of publication)
+* [7] P. Libby. Atherosclerosis: the new view. Scientific American, 286(5):46–55, 2002. (May 2002)
+* [8] A. Milutinovi´ c, D.ˇSuput, and R. Zorc-Pleskoviˇ c. Pathogenesis of atherosclerosis in the tunica intima, media, and adventitia of coronary arteries: An updated review. Bosnian journal of basic medical sciences , 20(1):21, 2020. (2020)
+* [9] D. Goldberg and S. Khatib. Atherogenesis, transcytosis, and the transmural choles- terol flux: A critical review. Oxidative Medicine and Cellular Longevity , 2022, 2022. (2022)
+* [10] R. Ross. Atherosclerosis—an inflammatory disease. New England journal of medicine, 340(2):115–126, 1999. (February 1999)
+* [11] Kazuyuki Yahagi, Frank D Kolodgie, Fumiyuki Otsuka, Aloke V Finn, Harry R Davis, Michael Joner, and Renu Virmani. Pathophysiology of native coronary, vein (no date of publication)
+
+If there is no date of publication, I will write today's date:
+
+* [1] World Health Organization (WHO). Cardiovascular Diseases (CVDs). https://www.who.int/news-room/fact-sheets/detail/18 (2024-09-04)",Unknown,Unclear,"Based on the context, I would say ""unclear"". The references provided are a mix of World Health Organization (WHO) fact sheets, research articles, and reviews, but there is no explicit indication that the document itself is peer-reviewed.","The document appears to be a scientific paper or report that discusses the regulation of cardiovascular diseases (CVDs) and the role of smooth muscle cells (SMCs) in the development of atherosclerosis. The paper presents a mathematical model that simulates the behavior of SMCs and their interactions with other cell types, such as macrophages and monocytes, in the context of CVDs. The model incorporates various parameters and rates that affect the behavior of SMCs, including their proliferation, apoptosis, and phenotype switching. The paper also references several scientific studies that support the model's findings and provides a comprehensive overview of the current understanding of CVDs and the role of SMCs in their development."
+2412.06841,0.06296587,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper or study on gastrointestinal health, specifically focusing on the use of proton pump inhibitors (PPIs) and other medications. The paper discusses the patient's demographic information, medical history, and current medications, including PPIs, statins, and NSAIDs. The study also mentions antibiotic resistance and potential allergies to certain medications. The paper likely presents the results of a study or analysis on the use of PPIs and other medications in a specific region or population."
+2412.07136,0.8,"Unfortunately, there is no date of publication provided in the given context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document describes a machine learning model selection process for predicting patient death and disease recurrence in various outcomes. The process involves iterative forward feature selection, where the feature with the best validation performance is added to the optimal feature set, and a new CPH model is trained. The process stops when the validation performance stops increasing or the maximum number of selected features is reached. The best-performing model is selected based on the area under the receiver operating characteristic curve (AUROC) and its 95% confidence interval. The document presents the results of this process for different models and outcomes, including mRNA, miRSeq, DNA Methylation, WSI Deep, and MMEM models."
+2412.09062,0.8,2008,Unknown,Unclear,Unclear,"The document appears to be an introduction or methodology section of a research paper. It describes the literature research protocol used to investigate a concept, and provides a Prisma diagram to illustrate the protocol. The study did not involve local data collection or use of specific regional data, and therefore did not involve indigenous researchers. The authors plan to consider these limitations in future research projects."
+2412.09973,0.05,The date of publication is: 2011.10.,Unknown,Unclear,Yes,"The document appears to be a research protocol or manuscript related to a study on tinnitus, specifically examining the effects of naps on tinnitus. The study includes three groups: those whose tinnitus worsened after naps (TW), those whose tinnitus was unaffected (NE), and those whose tinnitus improved (TI). The study used various methods to collect data, including questionnaires with different types of answer formats. The document also mentions the calculation of effect sizes and provides information on the author contributions and funding acquisition."
+2412.12815,0.8,"The date of publication is not specified in the given context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"I'm happy to help! However, I don't see any article mentioned in the provided context. It seems to be a collection of references and citations. If you could specify which article you're referring to, I'd be happy to help you with the institution name.",Unclear,"The document discusses the concept of health in an aging network, using a complex network model to understand the interconnectedness of physical parts of the body and how they relate to mortality. The model views health as a network of nodes, where each node represents a physical part of the body, and edges represent the relationships between them. The nodes can be in a healthy or damaged state, and the model allows for the identification of vital organs and the separation of different physiological aspects of the body. The document also references various studies and theories on aging and mortality, including the Gompertz-Makeham law and the reliability theory of aging."
+2412.13234,0.8,"Based on the provided context, I found the following dates:
+
+* doi:10.1080/13696998.2020.1770261: 2020
+* doi:10.1055/s-0039-1677738: 2019
+* doi:10.1200/CCI.20.00109: 2021
+* doi:10.1007/s40273-015-0309-4: 2015
+* doi:10.1016/j.clgc.2020.07.006: 2020
+* doi:10.1080/13696998.2020.1770261: 2020
+
+Since there is no specific date of publication mentioned in the table or the text, I will write today's date:
+
+2024-11-07",Unknown,Unclear,Unclear,"The document appears to be a cost-effectiveness analysis of two treatment strategies for bladder cancer. The analysis uses a microsimulation model to estimate the costs and quality-adjusted life years (QALYs) of two treatment sequences: Carbo/Gem followed by IO (carboplatin/gemcitabine followed by immunotherapy) and Cis/Gem followed by IO (cisplatin/gemcitabine followed by immunotherapy). The results show that the Carbo/Gem → IO sequence is more cost-effective than the Cis/Gem → IO sequence, with a net monetary benefit (NMB) of $11,185. The analysis also provides estimates of the probability of adverse events, utilities, and costs associated with each treatment sequence."
+2412.14726,0,"The date of publication is not specified in the given context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"Based on the context, here are the names of the institutions that published the articles:
+
+* Cell
+* Physical Review X
+* Cell Systems
+* Biology and Medicine
+* CRC Press
+
+Note that some of these are not traditional institutions, but rather scientific journals or publishers.","Based on the context, I would say ""unclear"". The document appears to be a bibliography or a list of references, and it does not explicitly indicate that the sources are peer-reviewed. However, it does mention the publication names and dates, which suggests that the sources are academic or scientific in nature.","The document discusses the concept of cell fate, which refers to the process by which cells in a multicellular organism develop into distinct forms despite sharing the same genetic material. The author notes that while all cells in an organism have the same genes, they can still exhibit different phenotypes, such as morphology and function. The document also references a metaphorical landscape, where genes are represented by pegs and changes in gene expression influence the shape of the landscape, representing cell fate determination."
+2412.16391,0.6,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a mathematical model of cancer cell growth and response to drug treatment. It discusses the concept of long-run growth rate and average growth rate, and how the optimal treatment schedule can be determined to maximize the growth rate. The model also explores the idea of pulses of drug treatment and how the cycle length affects the long-run growth rate. The document cites several scientific studies in the biological literature to support its claims."
+2412.18745,0.8,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+March 22, 2023",Brownetal.,Unclear,Unclear,"The document discusses the importance of better data in biological scaling and metabolic ecology. It highlights the need for carefully documented and standardized data, as many large databases used in comparative life history studies are not well-documented and may lead to incorrect interpretations. The authors also emphasize the importance of considering the magnitude of variation and the scale of analysis when studying biological phenomena."
+2412.19041,0.42,The date of publication is: 2009,"The author of this document is:
+
+Md Mirajul Islam, Md Nahiyan Uddin, Maoyejatun Hasana, Debojit Pandit, Nafis Mahmud Rahman, Sriram Chellappan, Sami Azam, and A. B. M. Alim Al Islam","Based on the provided context, I can identify the following institutions:
+
+* Journal of Mass Spectrometry
+* British Journal of Sports Medicine
+* Health Services Research
+* Journal of Forensic Sciences
+* Neurocomputing
+* Nature Reviews Neuroscience
+* Association for Psychological Science Journal
+* Sleep
+
+The others are unclear or not specified.",Unclear,"The document appears to be a research paper on brainwave-based human trait identification. The authors used EEG data and machine learning algorithms, including LSTM and BiLSTM, to identify various traits such as sleep time, sleeping problems, heart disease, diabetes, stroke, believer, practitioner, exercise, fast food, and fat. The results show that the LSTM and BiLSTM models performed well in classifying these traits, with the BiLSTM model showing slightly better performance. The authors also compared their results with those obtained using the Auto-WEKA package."
+2501.01198,0.61,The date of publication is: 1998,Unknown,Unclear,Unclear,"The document presents a descriptive cross-sectional study that aimed to evaluate the quality of life and perceived quality of care in patients with advanced chronic kidney disease (ERCA). The study used two questionnaires, KDQOL-36 and IECPAX, to assess quality of life and perceived quality of care, respectively. The results suggest that quality of life and perceived quality of care are independent in patients with ERCA, highlighting the importance of addressing both aspects separately to improve outcomes."
+2501.01510,0.7,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"I can do that! However, please note that the context provided does not contain a specific article, but rather a collection of references. Therefore, I will provide the names of the institutions associated with each reference:
+
+[2] Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, and Andrea Mechelli, “Machine learning for brain age prediction: Introduction to methods and clinical applications,” EBioMedicine, vol. 72, pp. 103600, 2021.
+
+* Institution: unclear (EBioMedicine is a journal, not an institution)
+
+[3] Mariona Jov ´e, Manuel Portero-Ot ´ın, Alba Naud ´ı, Isidre Fer- rer, and Reinald Pamplona, “Metabolomics of human brain aging and age-related neurodegenerative diseases,” Journal of Neuropathology & Experimental Neurology, vol. 73, no. 7, pp. 640–657, 2014.
+
+* Institution: unclear (Journal of Neuropathology & Experimental Neurology is a journal, not an institution)
+
+[4] James H Cole and Katja Franke, “Predicting age using neuroimaging: Innovative brain ageing biomarkers,” Trends in Neurosciences, vol. 40, no. 12, pp. 681–690, 2017.
+
+* Institution: unclear (Trends in Neurosciences is a journal, not an institution)
+
+[5] Katja Franke and Christian Gaser, “Ten years of brainage as a neuroimaging biomarker of brain aging: What insights have been gained?”
+
+* Institution: unclear (no journal or institution specified)
+
+[31] Simon M Hofmann, Frauke Beyer, Sebastian Lapuschkin, Ole Goltermann, Markus Loeffler, Klaus-Robert M¨uller, Arno Vill- ringer, Wojciech Samek, and A Veronica Witte, “Towards the interpretability of deep learning models for multi-modal neuroimaging: Finding structural changes of the ageing brain,” NeuroImage, vol. 261, pp. 119504, 2022.
+
+* Institution: unclear (NeuroImage is a journal, not an institution)
+
+[24] Iman Beheshti, Scott Nugent, Olivier Potvin, and Simon Duch- esne, “Bias-adjustment in neuroimaging-based brain age frameworks: A robust scheme,” NeuroImage: Clinical , vol. 24, pp. 102063, 2019.
+
+* Institution: unclear (NeuroImage: Clinical is a journal, not an institution)
+
+[26] Rahul S Desikan, Howard J Cabral, Bruce Fischl, Charles RG Guttmann, Deborah Blacker, Bradley T Hyman, Marilyn S Al- bert, and Ronald J Killiany, “Temporoparietal mr imaging measures of atrophy in subjects with mild cognitive impairment that predict subsequent diagnosis of alzheimer disease,” American Journal of Neuroradiology, vol. 30, no. 3, pp. 532–538, 2009.
+
+* Institution: unclear (American Journal of Neuroradiology is a journal, not an institution)
+
+[27] Jonathan D Rohrer, “Structural brain imaging in frontotem- poral dementia,” Biochimica et Biophysica Acta (BBA)-
+
+* Institution: unclear (Biochimica et Biophysica Acta (BBA) is a journal, not an institution)",Unclear,"The document discusses the application of Variance Neural Networks (VNNs) to analyze brain imaging data. Specifically, it uses VNNs to identify patterns of accelerated aging in patients with Alzheimer's disease (APD) and Frontotemporal dementia (FTD). The study uses datasets from the NIFD and PPMI studies and finds that the FTD group exhibits more significant accelerated aging than the APD group. The VNN model is trained on cortical thickness features from a healthy control population in the OASIS-3 dataset. The results suggest that VNNs can be a useful tool for identifying patterns of accelerated aging in neurodegenerative diseases."
+2501.02176,0.9,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document appears to be a research paper discussing health outcomes in the UK Biobank, a large-scale biomedical database. The paper defines specific health outcomes, such as heart failure, kidney failure, stroke, myocardial infarction, and chronic obstructive pulmonary disease, based on initial diagnoses recorded in the database. The paper also describes the characteristics of the participants, including age, sex, and birth month/year, and how these characteristics were used to analyze the data."
+2501.02401,0.9,"Based on the context, I found the following dates of publication:
+
+* 2013
+* 2015
+* 2018
+* 2019
+* 2021
+* 2022
+* 2023
+* 2024
+
+If there is no date of publication, I will write today's date, which is:
+
+2022",Unknown,I can't find any information about an institution publishing this article.,Unclear,"The document appears to be a research paper on the topic of DNA methylation and aging. It discusses the use of machine learning models to predict age based on DNA methylation profiles. The authors propose an Explainable Boosting Machine (EBM) model that can capture both individual and interaction effects between features. The model is applied to a dataset of DNA methylation profiles and is shown to be effective in predicting age. The paper also reviews previous research on the topic of DNA methylation and aging, highlighting the importance of considering both individual and interaction effects in modeling this complex relationship."
+2501.07043,0.4,Please provide the specific reference you'd like me to check for a date of publication.,Unknown,Please provide the article title and I'll do my best to extract the name of the institution that published it.,Unclear,"The provided context appears to be a collection of research articles and papers related to the topics of convergent evolution, genomic analysis, and evolutionary biology. The papers discuss various aspects of convergent evolution, including the identification of genomic signatures, the role of gene flow and reduced diversity in speciation, and the prediction of functional convergence of genes. Additionally, the papers explore the use of statistical analysis and machine learning techniques to identify hidden associations among genes and to understand the evolutionary processes that shape the evolution of complex traits."
+2501.08714,0.2,Today's date: 25/09,Unknown,Unclear,Unclear,"The document discusses the role of amino acids, specifically serine, in the metabolism of neuroblastoma (NB) cells. It highlights the importance of serine in the synthesis of cystathionine, which is then converted to cysteine and alpha-ketoglutarate. The document also touches on the role of amino acids in general, including their use as building blocks for protein synthesis and their involvement in energy production and signaling pathways. Additionally, it discusses the metabolic adaptability of NB cells and how certain bacteria, such as Actinobacteria, Bifidobacterium, and Desulfovibrio, can exert protective effects on these cells by producing bioactive molecules that inhibit their growth and proliferation."
+2501.08911,0.2,2004,Unknown,Unclear,Yes,"The document appears to be a research article or manuscript that reports on a study investigating injury risk. The study was funded by Autoliv Research and involved a review of datasets, with the results showing that the relationship between certain variables and injury risk was not statistically significant. The authors declare no competing interests and confirm that all authors have read and approved the final manuscript."
+2501.09546,0.3,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The provided document appears to be a research paper or a scientific article discussing the growth kinetics of Escherichia coli (E. coli) in glucose-limited continuous culture. The paper presents a mathematical model to describe the growth of E. coli, including the effects of glucose diffusion, proton diffusion, and other parameters on the growth process. The model is used to simulate the growth of E. coli under different conditions, and the results are compared to experimental data. The paper also discusses the importance of understanding the growth kinetics of E. coli in various biotechnological applications, such as fermentation and bioremediation."
+2501.11271,0.4,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"Here are the names of the institutions that published the articles:
+
+[18] PNAS NEXUS
+[19] eLife
+[20] Quantitative Biology
+[21] eLife
+[22] PRX Life
+[23] Proceedings of the National Academy of Sciences
+[24] Cell Reports Physical Science
+[58] Computational Methods in Cell Biology
+[59] Current Opinion in Cell Biology
+[60] Physica D: Nonlinear Phenomena
+[61] Journal of Theoretical Biology
+[62] Development
+[63] Journal of Cell Science","Based on the context, I would say ""unclear"". The document appears to be a research paper or article, but there is no explicit indication that it has undergone peer review.","The provided context appears to be a collection of references related to gene expression patterns in multicellular systems, developmental biology, and cancer. The references discuss various topics such as positional information, reaction-diffusion, and hierarchical inductions of cell states. Additionally, there are references to studies on cell-cell communication, gene regulation, and epithelial-to-mesenchymal transition. The context also mentions a specific model for cell labeling and a master equation for the probability of having a tissue state at a given time. However, without further information, it is difficult to provide a more detailed summary."
+2501.11831,0.1,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Joel A. Malek,Unclear,Unclear,"The document appears to be a research paper on the genetic study of the date palm (Phoenix dactylifera L.). The authors conducted an association study to identify significant single nucleotide polymorphisms (SNPs) associated with the fruit's length, width, and weight. The study used a genome-wide association study (GWAS) approach and found several significant SNPs that were associated with the fruit's characteristics. The authors acknowledge the contributions of several individuals and institutions, and the study was funded by the Qatar National Research Fund."
+2501.13657,0.8,2022,Unknown,Unclear,Unclear,"The document appears to be a scientific paper discussing the concept of evolution and its effects on living organisms. It mentions the idea that evolution can lead to detrimental changes in individuals, which can potentially lower their reproductive fitness. The paper also touches on the idea of ""streamlined code"" in development, which serves as evidence of past evolution, and questions where these effects manifest in present evolution."
+2501.15208,0.1,Today's date.,Unknown,"I apologize, but there is no article provided in the context. It appears to be a collection of references and a table. Therefore, I cannot determine the name of the institution that published the article.","Based on the provided context, I would say ""unclear"". The document appears to be a research article, but there is no explicit indication that it has undergone peer review. The presence of a DOI (digital object identifier) and references to other published works suggests that the article may have been reviewed, but this is not explicitly stated.","The document appears to be a research paper or study that discusses the results of a gene ontology (GO) analysis of a specific biological network related to cellular stress and autophagy. The analysis identified several GO terms related to reactive oxygen species, endoplasmic reticulum stress, mitochondrial depolarization, and autophagy, among others. The study also mentions the involvement of several authors and their affiliations, as well as the availability of the data and code used in the study."
+2501.17158,0.7,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023","Fahad Salman, Ferdinand Schweser",Unclear,Unclear,"The document appears to be a research paper or study on a specific topic, likely in the field of medicine or neuroscience. The authors list a group of researchers who contributed to the methodology, data analysis, and writing of the paper. The paper presents results related to the performance of two methods, WB and CSF, in a specific context, with a focus on WB's superior performance. The document also includes a mathematical equation (6) and references to supplementary figures (Supp. Figs. 10 and 11)."
+2501.17838,0.6,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document appears to be a research paper or manuscript that discusses a study on multiple sclerosis (MS) patients. The study used network analysis to examine the relationships between different brain regions and how they are affected by the disease. The authors analyzed data from a group of patients with MS and a control group, and found significant differences in the strength of connections between brain regions in the two groups. The study also investigated whether these differences were due to differences in the magnitude or sign of the correlations between brain regions. The authors conclude that the study provides new insights into the neural mechanisms underlying MS and may have implications for the development of new treatments for the disease."
+2501.19030,0.2,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper discussing the analysis of genetic variants associated with various traits, including diastolic blood pressure, low-density lipoprotein cholesterol, and coronary heart disease. The authors used a combination of genetic data and gene expression data to identify genetic variants that are associated with these traits. They also developed a model to predict gene expression levels based on genetic variants and evaluated the performance of the model using 5-fold cross-validation. The results suggest that the model is able to accurately predict gene expression levels and identify genetic variants that are associated with the traits of interest."
+2501.19343,0.6,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research study on the effects of a powder supplement on osteoporosis disease. The study found that the supplement, produced by processing cereal grains, showed significant improvements in bone mineral density in patients with osteoporosis, but not in healthy individuals. The results suggest that the supplement may be a potential treatment option for osteoporosis, but further research is needed to confirm its effectiveness and safety."
+2502.00696,0.25,Please provide the reference number or the title of the document you would like me to check.,"Based on the provided context, here are the authors mentioned:
+
+1. Gachkar, L.
+2. Yadegari, D.
+3. Rezaei, M. B.
+4. et al. (2007)
+5. Gagandeep, Dhanalakshmi, S., Mendiz, E. (2003)
+6. Gu, Y. (1999)
+7. Gupta, S., Kapoor, P., Chaudhary, K., et al. (2013)
+8. Hussain, M., et al. (2006)
+9. Ishikawa, T., Takayanagi, T., Kitajima, J. (2002)
+10. Kalaivani, P., Saranya, R. B., Ramakrishnan, G., et al. (2013)
+11. Kang, L., Han, T., Cong, H., et al. (2022)
+12. Lamiable, A., Thévenet, P., Rey, J., Vavrusa, M., Derreumaux, P., & Tufféry, P. (2016)
+13. Li, R., Jiang, Z. T. (2010)
+14. Li, X., et al. (2024)
+15. Liu, R., Zhang, W., Gou, P., et al. (2022)
+16. Srivastava, R., Srivastava, S. P., Jaiswal, N., et al. (2011)
+17. Tang, W., Dai, R., Yan, W., et al. (2022)
+18. Wali, A., Mijiti, Y., Yanhua, G., et al. (2021)
+
+Note that some references do not have an author mentioned, so I have written ""unknown"" for those cases.",Please provide the article title and I'll do my best to extract the institution name.,"Based on the context, I would say ""yes"". The documents cited in the context have DOIs (Digital Object Identifiers) and are published in reputable scientific journals, which is a common indicator of peer-reviewed publications.","The document appears to be a collection of research articles and studies related to the chemical and biological properties of essential oils, particularly those of Cuminum cyminum (cumin) and Rosmarinus officinalis (rosemary). The studies explore the chemical composition, biological activities, and potential therapeutic applications of these essential oils. Additionally, the document mentions the prediction of peptide structures using the PEP-FOLD3 tool and the structural characterization of antidiabetic peptides."
+2502.00979,0.2,"According to the context, the date of publication is not specified. Therefore, I will write today's date:
+
+March 22, 2023",Macenko,Unclear,Unclear,"The document appears to be discussing a method for comparing and measuring the similarity between pairs of annotations in digital pathology images. The method, called MorphoITH, uses a similarity metric to capture a wide range of clinically relevant and other morphology features. The document presents a graph showing the separation between pairs of annotations, with the x-axis representing different architecture classes (small and large nests, bleeding follicles, alveolar, trabecular, solid) and grade (low grade 1-2, high grade 2-3)."
+2502.02369,0.8,[Hou16],Unknown,Unclear,Unclear,"The document discusses the collection and analysis of data for a study on the prevalence of a disease over time. The study uses a longitudinal design, where participants are followed up at predetermined points in time, and their current status (non-diseased, diseased, or deceased) is recorded. The data is aggregated into a current status (ACS) dataset, which shows the number of people in each state at each point in time. The study also discusses the challenges of collecting this type of data, including the need for follow-up and the potential costs and logistical efforts involved."
+2502.03499,0.05,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"Based on the provided context, I did not find any information about the institution that published the article. The context only mentions various research papers and articles, but not the institutions that published them. Therefore, I would write ""unclear"".","Based on the context provided, I would say ""unclear"". There is no explicit indication that this document has been peer-reviewed.","The provided document appears to be a collection of scientific papers and articles discussing various topics in the fields of genetics, genomics, and bioinformatics. The papers cover topics such as:
+
+* The role of microRNAs (miRNAs) in regulating gene expression, including the specific functions of hsa-miR-4684 in humans and gga-miR-6575-5p in chickens.
+* The importance of genomic data resources and the challenges and promises they present.
+* The use of vector quantile denoising autoencoders (VQDA) for processing genomic data.
+* The development of new language models and their applications in natural language processing.
+
+The document also includes tables and figures presenting data on various genomic features, such as gene expression levels and miRNA target sites. Overall, the document provides an overview of recent advances and research in the fields of genetics, genomics, and bioinformatics."
+2502.05039,0.6,"Based on the provided context, here are the answers:
+
+* [34] Fok, P.-W.: Growth of necrotic cores in atherosclerotic plaque. Mathematical medicine and biology: a journal of the IMA 29(4), 301–327 (2012).
+Date of publication: 2012
+* [27] Bulelzai, M.A., Dubbeldam, J.L.: Long time evolution of atherosclerotic plaques. Journal of theoretical biology 297, 1–10 (2012).
+Date of publication: 2012
+* [28] Cohen, A., Myerscough, M.R., Thompson, R.S.: Athero-protective effects of high density lipoproteins (hdl): an ode model of the early stages of atherosclerosis. Bulletin of mathematical biology 76, 1117–1142 (2014).
+Date of publication: 2014
+* [29] Islam, M.H., Johnston, P.: A mathematical model for atherosclerotic plaque formation and arterial wall remodelling. ANZIAM Journal 57, 320–345 (2015).
+Date of publication: 2015
+* [30] Thon, M.P., Ford, H.Z., Gee, M.W., Myerscough, M.R.: A quantitative model of early atherosclerotic plaques parameterized using in vitro experiments. Bulletin of mathematical biology 80, 175–214 (2018).
+Date of publication: 2018
+* [31] Lui, G., Myerscough, M.R.: Modelling preferential phagocytosis in atherosclerosis: delineating timescales in plaque development. Bulletin of Mathematical Biology 83(9), 96 (2021).
+Date of publication: 2021
+* [32] Xie, X.: Well-posedness of a mathematical model of diabetic atherosclerosis. Journal of mathematical analysis and applications 505(2), 125606 (2022).
+Date of publication: 2022
+* [33] Calvez, V., Ebde, A., Meunier, N., Raoult, A.: Mathematical modelling of the atherosclerotic plaque formation. In: ESAIM: Proceedings, vol. 28, pp. 1–12 (2009).
+Date of publication: 2009
+* [87] Ross, A., Pompano, R.: Diffusion of cytokines in live lymph node tissue using microfluidic integrated optical imaging. Analytica chimica acta 1000, 205–213 (2018).
+Date of publication: 2018
+* [88] B¨ ack, M., Yurdagul Jr, A., Tabas, I., ¨O¨ orni, K., Kovanen, P.T.: Inflammation and its resolution in atherosclerosis: mediators and therapeutic opportunities. Nature Reviews Cardiology 16(7), 389–406 (2019).
+Date of publication: 2019
+* [89] Glagov, S., Weisenberg, E., Zarins, C.K., Stankunavicius, R., Kolettis, G.J.: Compensatory enlargement of human atherosclerotic coronary arteries.
+Date of publication: Today's date (since no date is provided)",Unknown,"Based on the provided context, here are the names of the institutions that published the articles:
+
+[50] Discr. Cont. Dyn. Syst. B ( unclear )
+[51] Nature immunology
+[52] PLOS ONE
+[66] Journal of lipid research
+[67] Journal of leukocyte biology
+[87] Analytica chimica acta
+[88] Nature Reviews Cardiology
+[89] ( unclear )
+[68] Experimental & Molecular Medicine
+[69] Immunity
+[70] ( unclear )
+
+Note that some of the institutions may not be explicitly mentioned in the provided context, so I've marked those as ""unclear"".",Unclear,"The document appears to be a research paper on a spatially resolved and lipid-structured model for early atherosclerosis. The model is used to study the development of atherosclerosis, a condition characterized by the accumulation of lipids in the walls of arteries. The paper presents a mathematical model that takes into account the density and HDL capacity of macrophages, as well as the lipid content and depth of the atherosclerotic lesions. The results show how the mean MDM density, lipid content, and depth are affected by different parameters, including L⋆ and H⋆. The paper also references several other studies on atherosclerosis and its related topics."
+2502.06883,0.6,"Since there is no date of publication mentioned in the context, I will write today's date:
+
+February 27, 2023",Unknown,"I apologize, but there is no article provided in the context. The context appears to be a collection of references and citations from various scientific articles. Therefore, I cannot determine the name of the institution that published the article.",Unclear,"The document appears to be an appendix to a package or software related to quantum mechanics and DNA analysis. It provides an overview of the package's classes and functions, including the choice of TB (tight-binding) model, which determines the trade-off between detail and computational efficiency. The document also lists default values for various parameters and variables, which can be modified in a configuration file. The classes and functions described in the document seem to be used to calculate various properties of DNA molecules, such as energy levels and transfer integrals."
+2502.07836,0.5,"There is no date of publication provided in the given context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"I apologize, but there is no clear institution name mentioned in the provided context.",Unclear,"The document appears to be a table summarizing publicly available longitudinal datasets in cancer research. The table lists various datasets, including the cancer type, study type, modalities used (e.g. clinical, molecular, imaging, histology), and the types of variables and features included in each dataset. The document also mentions the use of Dynamic Bayesian Networks (DBNs) for modeling time series microarray data in gene regulatory networks."
+2502.08070,0.8,"Based on the context, here are the dates of publication:
+
+* Faseb j, 35(2), e21143. https://doi.org/10.1096/fj.202001387R - 2020
+* Bethlehem, R. A. I., Seidlitz, J., White, S. R., Vogel, J. W., Anderson, K. M., Adamson, C.,…Alexander-Bloch, A. F. (2022). Brain charts for the human lifespan. Nature, 604(7906), 525 -533. https://doi.org/10.1038/s41586-022-04554-y - 2022
+* Biagi, L., Abbruzzese, A., Bianchi, M. C., Alsop, D. C., Del Guerra, A., & Tosetti, M. (2007). Age dependence of cerebral perfusion assessed by magnetic resonance continuous arterial spin labeling. J Magn Reson Imaging, 25(4), 696-702. https://doi.org/10.1002/jmri.20839 - 2007
+* Taylor, J. M., Chang, M., Vaughan, J., Horn, P. S., Zhang, B., Leach, J. L.,…Abruzzo, T. (2022). Cerebral Arterial Growth in Childhood. Pediatr Neurol , 134, 59 -66. https://doi.org/https://doi.org/10.1016/j.pediatrneurol.2022.06.017 - 2022
+* Tierney, A. L., & Nelson, C. A., 3rd. (2009). Brain Development and the Role of Experience in the Early Years. Zero Three, 30(2), 9-13. - 2009
+* Tsujikawa, T., Kimura, H., Matsuda, T., Fujiwara, Y., Isozaki, M., Kikuta, K., & Okazawa, H. (2016). Arterial Transit Time Mapping Obtained by Pulsed Continuous 3D ASL Imaging with Multiple Post-Label Delay Acquisitions: Comparative Study with PET-CBF in Patients with Chronic Occlusive Cerebrovascular Disease. PLoS One , 11(6), e0156005. - 2016
+
+If there is no date of publication, I will write today's date:
+
+* Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer-Verlag. - 2023-03-21",Unknown,"I can do that! However, please note that the provided context does not contain any specific article or publication. It appears to be a list of references with various authors and publication information.
+
+That being said, if you're looking for the names of the institutions associated with the authors, here's what I found:
+
+* Blüml et al. (2013): unclear
+* Borghi et al. (2006): World Health Organization
+* Camargo et al. (2021): unclear
+* Solis et al. (2020): unclear
+* Stasinopoulos and Rigby (2008): unclear
+* Sun et al. (2024): unclear
+* Takahashi et al. (1999): unclear
+* Yeo et al. (2011): unclear
+* Yu et al. (2023): unclear
+* Alzheimer's Disease Neuroimaging (2021): unclear (this is likely a research consortium or network rather than a specific institution)
+
+Please note that some of these authors may be affiliated with institutions that are not explicitly mentioned in the provided context.",Unclear,"The document describes the methods used to develop and validate a statistical model (GAMLSS) to analyze cerebrovascular function. The model was tested using a dataset divided into two halves, with one half used for training and the other for testing. The model's goodness of fit was evaluated using various metrics, including R-squared, quantile randomized residuals, and Shapiro-Wilk test. Additionally, the model was tested for reproducibility, site-specific effects, and the influence of data sample variability using bootstrap resampling."
+2502.10067,0.9,2024,Unknown,"I'll do my best to extract the institution names from the provided context. Here are the results:
+
+* [48] Nature
+* [49] Curr Opin Genet Dev ( unclear )
+* [50] Development
+* [39] Phys Rev Lett
+* [40] Phys Rev E
+* [41] J Biol Chem
+* [42] Trends Genet
+* [43] Proc Natl Acad Sci U S A
+* [44] Proc Natl Acad Sci U S A
+* [74] Science
+* [18] BMC Biol
+* [19] Proc Natl Acad Sci U S A
+* [20] Cell
+* [21] Cell
+* [22] Cell
+
+Let me know if you'd like me to clarify anything!","Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed. The references cited are from various scientific journals, but there is no mention of a peer-review process or a specific journal that has reviewed the document.","The document appears to be a research paper discussing the principles of genome architecture and function, specifically focusing on epigenetic regulation and chromatin structure. The authors present a theoretical framework for understanding the dynamics of collective epigenetic histone modification and its role in regulating gene expression. They propose a multi-layered model that incorporates the interactions between transcription factors, chromatin domain structure, and histone modification states. The model is used to simulate the behavior of epigenetic systems and predict the emergence of stable epigenetic states. The authors also discuss the implications of their findings for our understanding of epigenetic regulation and its role in development, differentiation, and disease."
+2502.12186,0.2,"According to the context, the date of publication is not specified. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,"Based on the context, I would say ""unclear"". The document appears to be a collection of references to various scientific papers and articles, but there is no explicit indication that the document itself has undergone peer review.","The document discusses the application of machine learning models in drug discovery and development. It presents the results of k-fold cross-validation for different machine learning models, including Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Gradient Boosting Machine (GBM), XGBoost, Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Transformer. The models were evaluated based on their Mean R-squared, Mean Root Mean Squared Error (RMSE), and Area Under the Curve (AUC) metrics. The Transformer model showed the best performance, with a Mean R-squared of 0.630, Mean RMSE of 0.695, and AUC of 0.928. The document also references several studies and articles related to machine learning in drug discovery and development."
+2502.12279,0,"February 19, 2025",Unknown,Unclear,Unclear,"The document appears to be a research paper discussing a method for analyzing a dataset related to population genetics. The authors describe their approach, which involves using a Fleming-Viot process to model the evolution of a population. They also discuss the choice of effective population size, which was a topic of debate among previous studies, and opt for a value of 3000 based on the literature. The paper likely presents the results of their analysis and discusses the implications for our understanding of the dataset."
+2502.16557,0.4,"Based on the context, there is no date of publication mentioned. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Istanbul Medipol University and Dokuz Eyl¨ ul University,Unclear,"The document appears to be a research paper discussing the analysis of brain activity in individuals with different neurological conditions, including Parkinson's disease (PD), mild cognitive impairment (MCI), dementia, and Alzheimer's disease (AD). The study uses a metric called ""A"" to measure the predictability of brain activity over time, and calculates the median and standard deviation of this metric for each group. The results show that the median and standard deviation of A can differentiate between groups, and that the standard deviation is smaller for control participants compared to those with neurological conditions. The study also examines the effect of frequency bands on the results, finding that the differences between groups are more pronounced in certain frequency bands."
+2502.18864,0.2,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,"I apologize, but there is no article mentioned in the provided context. The context appears to be a collection of references and a description of an evaluation rubric and a reflection agent. Therefore, I cannot provide the name of an institution that published an article.",Unclear,"The document appears to be a template or guidelines for generating and evaluating hypotheses in a scientific context, specifically in the field of drug development. It outlines a structured approach to proposing and testing hypotheses, including criteria for evaluating the hypothesis, such as adherence to scientific evidence, originality, and clarity. The template also includes sections for causal analysis, disproof analysis, and conclusion, as well as a scoring system to assess the hypothesis. The goal is to generate a high-quality hypothesis that is grounded in current scientific evidence and offers a novel explanation for a subset of observations."
+2502.19292,0.5,"According to the context, the date of publication is not specified. Therefore, I will write today's date:
+
+March 26, 2021",Unknown,Unclear,Unclear,"The document discusses the optimal vaccination orderings to minimize the number of deaths and infections under no contact restrictions. It presents a table showing the best vaccination protocols for different vaccination rates, with the upper part of the table focusing on minimizing the number of deaths (RD%) and the lower part focusing on minimizing the number of infections (RI%). The document highlights that the order of vaccination has a significant impact on the effectiveness of the vaccination protocol, and that starting with vaccination of intermediate-age groups followed by children and leaving the eldest groups at the end can achieve optimal reductions in the number of infections. However, this protocol performs poorly regarding the number of deaths."
+2502.19748,0.4,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a table of parameters and their biological meanings, ranges, and selected values, related to food-web theory and the interactions between predators and prey. The parameters include rates of consumption, growth, reproduction, and death, as well as exponential factors and prefactors, and are used to model the dynamics of age-structured populations. The document cites several scientific papers and articles as references."
+2503.00197,0.2,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper on the analysis of anatomical variation in the biventricular cardiac anatomy. The authors used a statistical method called Pillai's trace to examine the effect of various predictors on the shape coefficients of the cardiac anatomy. The results show that sex is a significant predictor of morphological variability, explaining at least 25% of the variability in all models. The authors also identified the first eight modes of anatomical variation and found that mode 1 is a dominant factor in distinguishing male and female subjects. The paper presents various figures and tables to illustrate the results, including bar plots and logistic regression coefficients."
+2503.02569,0.25,"According to the provided context, the date of publication is not mentioned. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,R Foundation for Statistical Computing,Unclear,"The document appears to be a research paper discussing the use of near-infrared reflectance spectroscopy (NIRS) to predict the essential amino acid contents in various animal feed products. The authors present the results of their study, which involved analyzing the amino acid profiles of different feed products using NIRS and comparing the predicted values to actual measurements. The study found that NIRS was able to accurately predict the essential amino acid contents in the feed products, with high coefficients of determination and low standard errors of prediction. The authors conclude that NIRS is a fast and accurate method for predicting the essential amino acid contents in animal feed products, which can be useful for optimizing feed formulations and improving animal nutrition."
+2503.04069,0,"Unfortunately, there is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Qingyuan Liu,Unclear,"Based on the context, I would say ""unclear"". There is no explicit indication that the document has been peer-reviewed.","The document appears to be a research paper or article that discusses the results of an investigation into the effects of JHT (likely a specific type of medication or treatment) on various biological processes. The study used a combination of data analysis and visualization techniques to identify key pathways and processes that were enriched or affected by the treatment. The authors also mention the involvement of various biological molecules and receptors, such as Toll-like receptors, phosphatidylserine, and nitric oxide synthase."
+2503.06123,0.44,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a study on the effects of EA (electroacupuncture) on gene expression in DBND (dorsal root ganglion neuron-derived) cells. The study used a sham-controlled design, where DBND cells were treated with either EA or a sham treatment for 10 consecutive days. The results show changes in gene expression, with some genes being upregulated or downregulated in response to EA treatment. The study suggests that EA may have a regulatory effect on gene expression in DBND cells, but further research is needed to fully understand the mechanisms involved."
+2503.06797,0.6,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document discusses the processing and analysis of clinical notes and lab reports to determine cachexia status. It describes the use of large language models (LLMs) to extract structured data from clinical notes and generate embeddings from the textual data. The LLMs were used to extract responses to a set of questions relevant to determining cachexia status, along with reasoning and references from the text. The performance of different LLMs was compared, with the Deepseek model performing the best. The extracted data was converted into a tabular format and used to calculate various metrics, including NLR and UCR."
+2503.07283,0.44,2008,Unknown,International Journal of Behavioral Medicine,Unclear,"The document describes the COVIDOM study, a research project that aimed to investigate the health-related behaviors and health outcomes of individuals aged 65 and older. The study was conducted at three locations in Germany (Berlin, Kiel, and Würzburg) and involved a total of 3,452 participants. The participants underwent medical tests and provided written informed consent before their inclusion in the study. The study was approved by local ethics committees and followed relevant guidelines and regulations. The data collected was deposited in a central database and has been published in various scientific journals."
+2503.07798,0.7,Mar 1 2023,Unknown,"I apologize, but there is no article mentioned in the provided context. The context appears to be a list of references with various journal names and publication dates. If you could provide more information or clarify which article you are referring to, I would be happy to try and assist you.",Unclear,"The document discusses various factors that contribute to the risk of developing Parkinson's disease (PD) and provides recommendations for prevention and management. It highlights the importance of genetic predisposition, cognitive and educational factors, exposure to toxins, air pollution, socioeconomic disparities, body weight and metabolic health, and inconsistencies across studies. The document suggests targeted therapies for genetically predisposed individuals, genetic counseling, and predictive testing for families with a PD history. It also recommends engaging in mentally stimulating activities, incorporating cognitive therapies, and reducing exposure to toxins and air pollutants. Additionally, it emphasizes the need for standardization of research methodologies, validation of emerging methods, and comprehensive data collection to better understand the disease."
+2503.08378,0.6,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,Unclear,"The document appears to be a research study that analyzes the associations between multiple long-term conditions in adults with learning disabilities. The study uses data to identify the most prevalent associations between conditions, as well as the directionality of these associations (i.e., which condition typically appears first). The results are presented in tables, showing the frequency, percentage, odds ratio, and median duration of co-occurrence for each pair of conditions, stratified by sex and age group."
+2503.11282,0.55,"There is no date of publication mentioned in the context. Therefore, I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper or report on a machine learning project focused on predicting cognitive domains (Memory, Executive Function, Visuospatial, and Language) from neuroimaging data (MRI). The paper presents the results of various experiments using different machine learning algorithms and techniques, including SHAP (SHapley Additive exPlanations) feature importance analysis and brain mapping. The experiments involve evaluating the performance of different models using different evaluation metrics and techniques, such as train-test split, leave-one-out cross-validation, and leave-one-missing-out cross-validation. The results show the performance of different models in predicting cognitive domains, with some models performing better than others."
+2503.12330,0.2,"There is no date of publication mentioned in the context, so I'll write today's date:
+
+March 22, 2023",Unknown,Unclear,Yes,"The document appears to be a research paper or article that discusses the analysis of causal relationships between time points using linear regression and the DoWhy tool. The authors estimate causal effects between different time points and evaluate direct causal relationships without introducing additional confounding factors. The paper does not provide specific details about the research topic or the data used, but it mentions the use of AI-assisted tools to improve grammar, clarity, and academic style."
+2503.14528,0.5,"The date of publication is:
+
+2020",Unknown,"Based on the provided context, the institution that published this article is:
+
+Louisiana Department of Health","Based on the context, I would say ""unclear"". The document appears to be a research article, but it does not explicitly state that it has undergone peer review. The presence of a DOI (digital object identifier) and the fact that it is published in a journal (JAMA Netw Open and Nicotine & Tobacco Research) suggest that it may have undergone peer review, but this is not explicitly stated.","The provided document appears to be a collection of research articles and studies related to healthcare analytics, epidemiology, and public health. The articles discuss various topics such as the determinants of life expectancy and healthy life expectancy, environmental risk factors for Gestational Diabetes Mellitus, and the prevalence of chronic obstructive pulmonary disease (COPD) and its associated factors.
+
+The document also includes demographic data, including age, gender, and race, which may be related to the studies or research articles. However, without further context or information, it is difficult to provide a more detailed summary of the document's content."
+2503.14706,0.4,"Unfortunately, the context does not provide a date of publication. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,"Based on the provided context, here are the names of the institutions that published the articles:
+
+[1] Science
+[2] Cell
+[3] Nature
+[4] Nature Reviews Genetics
+[5] Cell
+[6] Science
+[7] Signal Transduction and Targeted Therapy
+[8] Springer
+[9] unclear
+[13] Nature
+[14] IEEE Conference on Decision and Control",Unclear,"The document appears to be a collection of references and examples related to stochastic gene expression, cellular decision making, and biomolecular systems. It discusses the role of noise and randomness in gene expression and its consequences, as well as the importance of considering stochastic dynamics in understanding biological systems. The document also presents an example of a biomolecular system that satisfies a specific condition, ∂K A(x) = 0, which allows for the preservation of peak and valley positions in the system's behavior despite changes in the control parameter K."
+2503.16297,0.8,"Unfortunately, the context does not provide a date of publication, so I will write today's date:
+
+2023-03-21",Unknown,Unclear,Unclear,"The document appears to be a research paper on HIV/AIDS mortality rates, specifically focusing on the projected age-dependent mortality rates for people with diagnosed HIV (PWDH) in the United States. The paper uses mathematical modeling and eigenvector analysis to project mortality rates through 2030, finding that mortality rates are expected to decrease beyond 2030. The paper also references various studies and data sources to support its findings."
+2503.17418,0.1,"There is no date of publication mentioned in the provided context. Therefore, I will write today's date:
+
+March 22, 2023",Unknown,Unclear,"Based on the provided context, I would say ""unclear"". The document appears to be a research article, but I couldn't find any explicit indication of peer review.","The document appears to be a research study on the effects of Salmonella dysentery on the fascial system in rats. The study used a combination of morphological analysis and single-cell sequencing to investigate the changes in the fascial system and colonic tissue in rats with dysentery compared to healthy controls. The study found significant changes in the expression of certain genes and markers in the fascial system and colonic tissue, indicating alterations in the immune response and metabolic pathways. The study also observed pathological alterations in the colonic tissue of rats with dysentery. Overall, the study provides insights into the complex interactions between the fascial system, immune response, and gut microbiota in the context of Salmonella dysentery."
+2503.18701,0.2,"The date of publication is not specified in the context, so I will write today's date:
+
+2023-03-21",V.I. Grytsay,"According to the context, the institution that published the article is:
+
+Ukr. J. Phys.","Based on the context, I would say ""unclear"". There is no explicit indication that the documents listed are peer-reviewed. Some of the references appear to be academic papers, while others seem to be book chapters or conference proceedings. Without further information, it is difficult to determine the peer-review status of each document.","The document appears to be a collection of research papers and articles on the topic of self-organization and fractality in metabolic processes, particularly in the context of the Krebs cycle and atherosclerosis. The papers explore the dynamics of metabolic processes in cells and the role of self-organization and fractality in these processes. They also investigate the relationship between metabolic processes and physical states, such as the stability of the Krebs cycle and the formation of atherosclerotic plaques. The papers use mathematical models and techniques, such as Fourier analysis and Lyapunov indices, to study these phenomena."

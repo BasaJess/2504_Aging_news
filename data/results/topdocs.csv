@@ -1,0 +1,56 @@
+,Author,Date,Institution,Peer_Reviewed,Relevance_for_longevity,Summary
+0,Unknown,2023-04-13,"Please provide the article title or DOI, and I'll do my best to extract the name of the institution that published it.","Based on the provided context, I would say ""unclear"". The documents cited are research articles and reviews, but there is no explicit indication that the document itself is peer-reviewed.",1.0,"The document appears to be an article or report about the development of a bioinformatics project called Just-DNA-Seq. The project was co-founded by Anton Kulaga and others, and involved a team of researchers and developers who contributed to various aspects of the project, including bioinformatic pipeline development, architecture development, team management, and article writing. The report describes the architecture of the Just-DNA-Seq platform, which uses Open Cravat module naming rules and design patterns to create a report pipeline. The platform uses post-aggregators to process data and save results in a SQLite database, and then uses a templating engine to generate reports. The document also includes acknowledgments and information about the availability of the source code."
+1,Unknown,2025-04-26,Unclear,Unclear,0.9,"The document discusses the longevity record of Jeanne Louise Calment, who lived 122.45 years, making her the longest-lived person with a reliably documented age. The author argues that her record does not provide evidence that human longevity is approaching a biological limit, and that progress in increasing lifespans has been due to reductions in death rates and the postponement of high mortality rates to higher ages. The author also notes that the inclusion criteria for lists of supercentenarians, such as the Gerontology Research Group and Epstein lists, are not as strict as those of the International Database on Longevity (IDL) list."
+2,Unknown,2025-04-13,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. PLoS ONE (Public Library of Science)
+2. Population Studies ( unclear )
+3. Proc Natl Acad Sci U S A (National Academy of Sciences)
+4. Hum Reprod ( unclear )
+5. Journal of Computational Physics ( unclear )
+6. Cambridge University Press ( unclear )
+7. Aldine De Gruyter ( unclear )
+8. Am J Primatol ( unclear )
+9. J Hum Evol ( unclear )
+10. Evol Hum Behav ( unclear )
+
+Note that some of the institutions may not be explicitly mentioned in the context, so I've marked those as ""unclear"".",Unclear,0.9,"Unfortunately, there is no document provided, only a context with references to various scientific papers and articles. Therefore, I cannot write a summary of the document as there is no document to summarize. If you would like to provide the actual document, I would be happy to assist you in summarizing it."
+3,Unknown,2025-04-13,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. Proc. R. Soc. B - unclear (Royal Society)
+2. Philos. Trans. R. Soc. B Biol. Sci. - unclear (Royal Society)
+3. Front. Immunol. - unclear (Frontiers)
+4. Trends Ecol. Evol. - unclear (Elsevier)
+5. Nat. Educ. - unclear (Nature)
+6. MOJ Anat. Physiol. - unclear (MedCrave)
+7. N. Engl. J. Med. - unclear (Massachusetts Medical Society)
+8. Bioinformatics - unclear (Oxford University Press)
+9. Nat. Protoc. - unclear (Nature)
+10. Mol. Biol. Evol. - unclear (Oxford University Press)
+11. Curr. Sci. - unclear (Indian Academy of Sciences)
+12. Nature - unclear (Macmillan Publishers Limited)
+13. J. Genet. - unclear (Indian Academy of Sciences)
+
+Please note that some of these institutions may be unclear due to the lack of information provided in the context.",Unclear,0.9,"The document discusses the use of databases to calculate the number of gene copy numbers across species, rather than performing pairwise or multiple genome alignment for ortholog identification. It also presents the results of regression analyses for tumor suppressor genes (TSGs), gatekeepers, and caretakers, which show significant correlations between gene copy numbers and cancer risk. The document also references several scientific papers and R packages used in the analysis."
+4,Unknown,2025-04-13,Unclear,Unclear,0.9,"The document appears to be a research paper discussing the concept of Neuroscientific Performance-Enhancing Agents (NSPAN) and its potential benefits and risks. The authors argue that NSPAN, which focuses on individual health and collective welfare, may be more acceptable to the public than traditional Performance-Enhancing Cognitive Enhancers (PCE), which prioritize short-term gains and are often associated with negative attitudes. The paper also touches on the regulation of PCE and the importance of balancing benefits and risks. Additionally, it mentions the role of polyphenols in neurodegenerative diseases and the potential benefits of sirtuins in maintaining healthy brain function."
+5,Unknown,2025-03-22,Unclear,"Based on the context, I would say ""unclear"". The document appears to be a research article published in the journal ""Scientific Reports"", but it does not explicitly state that it has undergone peer review.",0.9,"The document discusses a study on brain activity in children and young adults, aged 6-18 years old, using functional magnetic resonance imaging (fMRI). The study aimed to investigate the relationship between brain activity and age, and how it changes over time. The researchers used a dataset of 241 samples, with 134 males, and found that the mean age was 11.84 years. The study also included a dataset of elderly people, aged over 18 years old, for comparison. The results showed that brain activity changes significantly with age, and the study used functional entropy to quantify and visualize these changes."
+6,Unknown,2025-03-22,"Based on the provided context, here are the names of the institutions that published the articles:
+
+1. Academic Press
+2. unclear
+3. Med Sci Sports Exerc
+4. Proc Biol Sci
+5. Pediatr Res
+6. Med Hypotheses
+7. Neuroreport
+8. Cell Rep
+9. Genomics Inform
+10. Aging Cell
+11. Q Rev Biol
+12. Ageing Res Rev
+13. Bell System Tech J
+
+Note that some of these may not be traditional institutions, but rather journals or publications.","Based on the context, I would say ""unclear"". The references provided are from various sources, including academic journals, books, and conference proceedings, but there is no explicit indication that the document itself has undergone peer review.",0.9,"The document discusses the concept of information-rich environments and their potential impact on biological parameters and senescence. It defines information as a meaningful set of data or patterns that influence the formation or transformation of other data or patterns to reduce uncertainty and achieve a goal. The author suggests that an information-rich environment can affect biological parameters and lead to a reduced rate of senescence. The document also touches on the idea that evolution through natural selection is driven by a perpetual conflict of individuals competing for limited resources, and that somatic death is a germ cell-triggered event."
+7,Unknown,2025-03-22,Unclear,Unclear,0.9,"The document discusses the relationship between the structural complexity of an organism and its potential for longevity, functionality, and development. It argues that an organism's structural complexity determines its potential for longevity, as well as its capacity for basic functionality and functional compensation. The document also notes that the time required for an organism's development is directly related to its structural complexity, and that a higher structural complexity does not necessarily translate to a higher level of functionality. The document uses examples, such as the comparison between the human brain and that of a cow, to illustrate these points."
+8,Ch Skiadas & C. Skiadas,2025-03-22,arXiv,Unclear,0.9,"The document appears to be a collection of data and research related to Healthy Life Years Lost (HALE) estimates for various countries in Europe. It includes data from the World Health Organization (WHO) and Eurostat, as well as research papers and methodologies used to estimate HALE. The document provides tables and charts showing HALE estimates for males and females in different age groups, as well as comparisons between WHO estimates and those obtained using a direct method. The research papers discussed in the document explore the relationship between the Weibull shape parameter and HALE estimates, as well as the estimation of HALE using simple models based on mortality rates."
+9,Unknown,2025-03-22,The name of the institution that published this article is unclear.,Unclear,0.9,"The document appears to be a research paper or article that discusses the application of various machine learning and statistical techniques to analyze and predict patient outcomes in a medical context. The paper presents the results of several experiments that combine different features and algorithms to improve the accuracy of survival analysis models. The features used include region-based, parcellation, and radiomic features, which are combined in different ways to create various models. The results are presented in the form of tables and statistical analyses, including p-values and confidence intervals. The paper also references several other research papers and articles in the field of survival analysis and machine learning."
