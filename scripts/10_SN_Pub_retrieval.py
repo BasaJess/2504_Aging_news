@@ -70,7 +70,7 @@ If the p parameter is not included, 10 results will be returned by default. If t
 
 def fetch_documents():
     total_fetched = 0
-    start = 30  # Springer API uses 1-based indexing
+    start = 0  # Springer API uses 1-based indexing
 
      #'q': f'{QUERY} sort:date',
     while total_fetched < MAX_RESULTS:
@@ -86,26 +86,14 @@ def fetch_documents():
             response.raise_for_status()
             data = response.json()
             records = data.get('records', [])
-            #print("params: ", params)
+            
             if not records:
                 print("No more records found.")
                 break
 
             for record in records:
                 if record:
-                    # Pretty-print the JSON record to the console
-                    #print(json.dumps(record, indent=2))
-
                     doc_id = record.get('identifier', f'doc_{start}')
-
-                    #filename = OUTPUT_DIR + "/" + f"{doc_id.replace(':', '_').replace('/', '_')}.json"
-                    
-                    #print("record.geturl: ")
-                    #print (record.get('url'))
-
-                    #with open(filename, 'w', encoding='utf-8') as f:
-                    #    json.dump(record, f, ensure_ascii=False, indent=2)
-
                     # Attempt to retrieve full-text URL
                     full_text_url = None
                     for link in record.get('url', []):
@@ -148,6 +136,5 @@ def fetch_documents():
 # Function to be used from other script
 def fetch_papers_from_SpringerNature():
     print("Fetching papers from SpringerNature...")
-    #fetch_documents()
-    #update_last_retrieval_date()
-    pass
+    fetch_documents()
+    update_last_retrieval_date()
