@@ -29,6 +29,7 @@ Extract the latest reliable scientific findings to extend human healthspan, usin
    - Clients and Employers
    - Other developers and proffessionals
    - General Public with intermediate Bio-scientific knowledge
+   - Open for collaborators
 
 ---
 
