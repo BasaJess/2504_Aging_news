@@ -1,5 +1,5 @@
-Is the description clear and complete?
- - The description of the project is in the Proof of Concept.
+The description and main Objective can be found in the [Readme](Readme.md)
+ - To summarize: Extraction of the latest scientific findings of Aging reserach
  - The Proof of concept and detailed definition of milestones with a time table helped me to draw a clear and measurable path.
 
 Available resources;
