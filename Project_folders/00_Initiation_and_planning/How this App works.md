@@ -7,5 +7,30 @@ Funtion of the following files and relation with the Pipeline
 00_deprecated files:  to be deleted later as soon as we are sure tey are no longer needed as a reference
 
 10_SN_Pub_retrieval: All the files with 10 at the beginning are to be used to retrieve new documents from the API's
- - Using the fetch_papers_from_SpringerNature() Funcions
 
+ - For example Using the 10_SN_Pub_retrieval.fetch_papers_from_SpringerNature() Funcion
+   - Retrieves
+   - Stores
+   - There are other functions but their are intended to be called only by the function above
+   - These group of scripts stores the retrieved docs in file either PDF or XML
+
+20_ Create vectors and save: 
+  - createvector_from_directory(doc_path) is the Interface function
+  - It uses createvector_from_file(doc_path, file_name) internally
+  - The doc_path is the directory holding the PDF's or XML's stored by the 10_XXX_Scripts
+  - Ir stores the vectors with the ending vector_db in the vector_databases directory
+ 
+31_Build_df_from_docsdb 
+ - create a df from all the docs in a directory by calling:
+ - function build_dataframe_from_many_docs_vectordbs(root_dir, output_path ,verbose=False)
+ - from the LLM Assistant 30_LLM_Assistant
+
+32_Data_cleaner.py
+ - clean_and_save_docs_df(df)
+ - saves the cleaned data in "cleaned_docs_info.csv"
+
+34_Most_relevant_docs_list_maker.py
+ - takes the data from "cleaned_docs_info.csv"
+
+40_Stemlit_v00 : is the actual app
+ - calls 34_Most_relevant_docs_list_maker.retrieve_most_relevant_docs_for_streamlit()
