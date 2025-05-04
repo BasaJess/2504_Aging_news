@@ -1,4 +1,8 @@
-
+# This is a library to create vector embeddings from PDF and XML files and save them in a local directory using Langchain and FAISS.
+# It has two main functions:
+# - createvector_from_file: Processes a single PDF file, splits it into chunks, creates a vector store, and saves it locally.   
+# - createvector_from_directory: Iterates over all PDF files in a specified directory and processes each one using createvector_from_file.
+# |---------|-----------|--------|--------------|
 import os
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
