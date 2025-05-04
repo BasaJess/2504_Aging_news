@@ -1,7 +1,7 @@
 ## Proof of Concept (PoC):
 ---
 
-Objective: Extract the latest reliable scientific findings to extend human healthspan, using Natural Language Processing (NLP) models or any other ML methods. Extract meaningful relationships between specific kewywords, approved drugs, and interventions and filter the results from Noise and unfounded or commercial interest.​ Finaly present for Public access in the Web. 
+Objective: Extract the latest reliable scientific findings to extend human healthspan, using Natural Language Processing (NLP) , Artificial Intelligence models or any other ML methods. Extract meaningful relationships between specific kewywords, approved drugs, and interventions and filter the results from Noise and unfounded or commercial interest.​ Finaly present for Public access in the Web. 
 
 #### 1. Introduction & Problem Statement:
 There’s growing interest in longevity research, but manually sifting through vast amounts of scientific papers is time-consuming. According to experts in the field, nowadays there is a scientific paper on regards to this topic published every 20 min. Additionally there are many commercial interests and more and more Dietary Supplements Companies claim to have found the fountain of youth to sell their products. Finally there are news outlets publishing stories related to this topic but without providing new or fundamented information. 
