@@ -19,7 +19,7 @@ Thus a quick Broswer or ChatGPT search does not give good results, an automated 
 
 ## **Goal**
 
-Extract the latest reliable scientific findings to extend human healthspan, using Natural Language Processing (NLP) models or any other ML methods. Extract meaningful relationships between specific kewywords, approved drugs, and interventions and filter the results from Noise and unfounded or commercial interest.​ Finaly present for Public access in the Web.
+Extract the latest reliable scientific findings to extend human healthspan, using Natural Language Processing (NLP) models, Artificial Intelligence or any other ML methods. Extract meaningful relationships between specific kewywords, approved drugs, and interventions and filter the results from Noise and unfounded or commercial interest.​ Finaly present for Public access in the Web.
 
 ---
 
