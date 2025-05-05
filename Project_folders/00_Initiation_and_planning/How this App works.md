@@ -38,3 +38,7 @@ Below a more detailed explanation of the funtionality on most of the files and t
 
 40_Stemlit_v00 : is the actual app
  - calls 34_Most_relevant_docs_list_maker.retrieve_most_relevant_docs_for_streamlit()
+
+ Here is a graphic description
+
+ [Pipeline](../../images/)
