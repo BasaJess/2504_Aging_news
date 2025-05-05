@@ -16,7 +16,7 @@ os.makedirs(db_path, exist_ok=True)
 
 # Initialize the embedding model once
 embedding_model = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
-
+#----------------------------------------------------------------------------------------
 # Function to process a single PDF file
 def createvector_from_file(doc_path, file_name):
     try:
@@ -38,7 +38,7 @@ def createvector_from_file(doc_path, file_name):
         print(f"Processed and saved vector store for {file_name}")
     except Exception as e:
         print(f"Error processing {file_name}: {e}")
-
+#----------------------------------------------------------------------------------------
 def createvector_from_directory(doc_path):
     """
     Example argument "../data/test_dir/"
