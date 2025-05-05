@@ -41,4 +41,4 @@ Below a more detailed explanation of the funtionality on most of the files and t
 
  Here is a graphic description
 
- [Pipeline](../../images/)
+ [Pipeline](../../images/Pipeline.png)
