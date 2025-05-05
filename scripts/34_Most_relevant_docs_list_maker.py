@@ -7,7 +7,7 @@
 import pandas as pd
 import os
 
-
+#-----------------------------------------------------------------------------------------
 def most_relevant_docs_list(df):
     """
     Sorts the DataFrame by relevance and date, selects the top 10,
@@ -45,7 +45,7 @@ def most_relevant_docs_list(df):
 
     return top_10_df, json_result
 
-
+#-----------------------------------------------------------------------------------------
 def retrieve_most_relevant_docs_for_streamlit ():
     
     df = pd.read_csv("." + os.sep + "data" + os.sep + "results" + os.sep + "cleaned_docs_info.csv")
