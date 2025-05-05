@@ -1,30 +1,42 @@
 # **Pipeline:**
 
-Step 1\. Data retrieval:
+Also visually describedn in the [Power Point Presentation](../08_Documentation_and_reporting/About%20staying%20young.pptx)
 
-1. APIs for Scientific Articles:  
-   1. PubMed API (For biomedical research)  
-   2. arXiv API (open-access scientific papers)  
-   3. Semantic Scholar API (wide range of research papers)  
-   4. CrossRef API (DOI-based paper research)  
+Step 1\. Data fetching:
+
+1. from APIs for Scientific Articles:
+   1. arXiv API (open-access scientific papers) was used as first source and 701 pdf retrieved
+   2. Springernature API (For biomedical research on a Agin and Nature Journals)
+   3. www.cell.com API 
+   4. bioXriv  Signer Lab has published there
+   5. Semantic Scholar API (wide range of research papers)  
+   6. CrossRef API (DOI-based paper research)  
 2. Web Scraping  
    1. Use Scrapy or BeautifulSop for open-access journals.  
    2. Check on permissions and legal use.
+   3. https://gurcohenlab.com/
+   4. https://signerlab.com/
 
-Step 2\. Preprocessing and Storage:
+Step 2\. Storage and First LLM Processing:
 
-1. Convert PDFs to text using pdfminer or PyMuPDF.  
-2. Clean data (keep references, figures, etc.)  
-3. Store in a structured format (maybe use a AWS or Azure Database)
+1. Convert PDFs or XMLS to vectors and embeddings and store them in File 
+2. Assign relevance, Extract important Information and Summarize 
+3. Store in file
 
-Step 3\. NLP for Information Extraction:
+Step 3\. Clean data and store as a Dtaframe in file:
 
-1. Named Entity Recognition. Identify key terms like “Telomere length”, “Epigenetics”, MTor, etc  
-2. Summarization. Use transformers (BART, T5 or Pegasus) to generate summaries.  
-3. Keyword Extraction. Use TF-IDF, YAKE, or KeyBERT to highlight main topics.  
-4. Relation Extraction: Train a model to detect causal links (e.g. “finding extends healthspan”)
+1. Using python scripting, Classify if needed, assign relevance score, obtain metadata and summarize each doc
+2. Create a DF, clean the data
+3. Store in file
 
-Step 4\. Analysis and Insights:
+Step 4\. Second LLM:
 
-1. Use vector databases (FAISS, ChromaDB) for semantic search.  
-2. Build a chatbot or dashboard to query the findings.
+1. Retrieve thd DF from file
+2. Sort by relevance and date
+3. Store in file 
+
+Step 5\. Update and upload to the streamit app
+
+1. Update and check that the scrip for the app is correct.
+1. Upload to github including necessary data since the folder data is in gitignore.
+1. fon a next iteration: Build a chatbot or dashboard to query the findings.

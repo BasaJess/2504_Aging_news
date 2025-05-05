@@ -6,6 +6,24 @@ We begin with:
 
  --- 
 
+
+ 1. from APIs for Scientific Articles:
+   1. arXiv API (open-access scientific papers) was used as first source and 701 pdf retrieved
+   2. Springernature API (For biomedical research on a Agin and Nature Journals)
+   3. www.cell.com API 
+   4. bioXriv  Signer Lab has published there
+   5. Semantic Scholar API (wide range of research papers)  
+   6. CrossRef API (DOI-based paper research)  
+2. Web Scraping  
+   1. Use Scrapy or BeautifulSop for open-access journals.  
+   2. Check on permissions and legal use.
+   3. https://gurcohenlab.com/
+   4. https://signerlab.com/
+
+---
+
+For later
+
  - SocArXiv: An open archive focusing on the social sciences, providing free access to preprints, working papers, and published articles in areas like sociology, education, and law.​
 
  - SSRN (Social Science Research Network): A platform that hosts early-stage research across a broad spectrum of disciplines, including social sciences, humanities, life sciences, and health sciences.​

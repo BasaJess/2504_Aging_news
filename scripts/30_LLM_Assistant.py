@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 load_dotenv()
-
+#--------------------------------------------------------------------------
 def extract_file_name(path):
     """
     Extracts the folder name ending with '_vector_db' from the given path.
@@ -36,9 +36,7 @@ def extract_file_name(path):
         raise ValueError("The path does not contain a folder ending with '_vector_db'.")
 # end of function
 
-import os
-import re
-
+#--------------------------------------------------------------------------
 def extract_parent_path(path):
     """
     Extracts the parent path that comes before the folder ending with '_vector_db'.
@@ -63,7 +61,7 @@ def extract_parent_path(path):
 # end of function
 
 # LLM section
-
+#--------------------------------------------------------------------------
 
 
 model_id = "llama3-8b-8192"
@@ -79,7 +77,7 @@ llm = ChatGroq(
     max_retries=2
 )
 
-
+#--------------------------------------------------------------------------
 def retrieve_from_vector_db(vector_db_path):
     """
     this function splits out a retriever object from a local vector database
@@ -98,7 +96,7 @@ def retrieve_from_vector_db(vector_db_path):
     return retriever
 # end of function
 
-
+#--------------------------------------------------------------------------
 
 def connect_chains(retriever):
     """
@@ -115,13 +113,13 @@ def connect_chains(retriever):
     return retrieval_chain
 # end of function
 
-
+#--------------------------------------------------------------------------
 def print_output(inquiry, retrieval_chain):
     result = retrieval_chain.invoke({"input": inquiry})
     return(result['answer'].strip("\n"))
 # end of function
 
-
+#--------------------------------------------------------------------------
 
 def extract_info_from_one_document_vectordb(vectordb_location):
     """
@@ -181,7 +179,7 @@ def extract_info_from_one_document_vectordb(vectordb_location):
 
 
 
-
+#--------------------------------------------------------------------------
 
 def build_dataframe_from_many_docs_vectordbs(root_dir, output_path ,verbose=False):
     """
@@ -220,6 +218,7 @@ def build_dataframe_from_many_docs_vectordbs(root_dir, output_path ,verbose=Fals
     
     return df
 
+#---------------------------------------------------------------------------
 def custom_llm_response(user_input: str, context=None) -> str:
     # Return a string response
     return "Response from custom LLM based on: " + user_input

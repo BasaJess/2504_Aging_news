@@ -23,18 +23,28 @@ Extract the latest reliable scientific findings to extend human healthspan, usin
 
 ---
 
+## **Audience and Stakeholders**
+ - Me
+ - Potentially other people interested
+   - Clients and Employers
+   - Other developers and proffessionals
+   - General Public with intermediate Bio-scientific knowledge
+   - Open for collaborators
+
+---
+
 ## Project Structure
 
-This repo was based in a Template provided by the neuefische school and pool for digital talent as part of the capstone project for the cohort of Jan-Apr /2025
+Initially this repo was based in a Template provided by the neuefische school and pool for digital talent as part of the capstone project for the cohort of Jan-Apr /2025, as an ongling porject it has beenm modified and will be as needed.
 
 It's main parts are: 
 
  - [Proof of Concept](Proof_of_concept.md)
- - Milestones: As this is already a completed project on the maintenance phase, the Milestiones document are only for rerefence, they are not updated or maintained. They were presented in two forms:
+ - Milestones: Left as rererence. As this is already a completed project on the maintenance phase, the milestones documents are not updated or maintained. They were presented in two forms:
    - As a list in a [markdown](Milestones.md) file
    - As a table in a [csv](Milestones.csv) file
  - [Project folders](Project_folders)
- These are the files following the milestones structure and can be used to understand the project structure
+ These are the files following the major stages or parts of the pipeline and to help understand each phase of it 
  - [scripts](scripts) (main code files)
  - [notebooks](notebooks) (used for testing code snipets)
  - [streamlit](.streamlit) (The streamlit app files)
