@@ -1,6 +1,6 @@
 ### "Modular"
 
-The App has bee desgined in a modular way to be able to switch pieces as it grows in the easiest posible way.
+The App has been desgined in a modular way to be able to switch pieces as it grows in the easiest posible way.
 
 As of May/05/2025 it is composed of three major modules
 
@@ -24,3 +24,6 @@ This update will save a dataframe with all the necessary information that needs 
 # 3. Publication
 This seems to be the easiest since seems that nothing needs to be done, as the new df will be uploaded in the previous point
 However as this is the UI, here we have room to modify, and expand the end functionality. Including the use and communication between two LLMs, one of them can use a database as a tool or memory, the question will be which db. It makes sense to use the complete vectordb and not the top_docs df list
+
+
+As a reminder of how the App actually works, there is a [document](../00_Initiation_and_planning/How%20this%20App%20works.md) and an [image](../../images/Pipeline.png) 
