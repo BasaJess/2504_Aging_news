@@ -27,8 +27,8 @@ streamlit
 #pypdf
 #pdfplumber
 
-#huggingface_hub
-#hf_transfer
-#torch
-#chromadb
-#hf_xet
+huggingface_hub
+hf_transfer
+torch
+chromadb
+hf_xet
