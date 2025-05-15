@@ -5,8 +5,8 @@ matplotlib
 #scikit-learn==1.2.2
 #pmdarima==2.0.4
 streamlit
-#openai
-#replicate
+openai
+replicate
 
 # This is repeated for a test with streamlit. If it works need to delete from requirements_dev
 #for LLM
