@@ -2,22 +2,11 @@ numpy
 pandas
 matplotlib
 seaborn==0.12.2
-scikit-learn #==1.2.2
+scikit-learn #==1.2.2 # 1.2.2 is not compatible with pmdarima
 pmdarima==2.0.4
 streamlit
 openai
 replicate
-
-# This is repeated for a test with streamlit. If it works need to delete from requirements_dev
-#for LLM
-#python-dotenv==1.0.1
-#langchain-community==0.3.2
-#langchain-openai==0.2.3
-#langchain-huggingface==0.1.0
-#langchain-groq==0.2.0
-#langchainhub==0.1.21
-#faiss-cpu==1.9.0
-
 
 huggingface_hub
 hf_transfer
